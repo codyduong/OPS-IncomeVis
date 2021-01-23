@@ -1,6 +1,7 @@
 from html.parser import HTMLParser
 import json
 
+
 def parseContent():
     """
     Reformats to a more friendly htmlParser format
@@ -25,7 +26,7 @@ def parseContent():
 
 
 class htmlParserBase(HTMLParser):
-    posConfirm = {} #lists pos where <td class=3D"xform"> exists
+    posConfirm = {}  # lists pos where <td class=3D"xform"> exists
     employees = {}
     """
     {
@@ -41,18 +42,19 @@ class htmlParserBase(HTMLParser):
             if str(tag) == "td" and attrs[0]:
                 #print(attrs[0], self.getpos())
                 self.posConfirm[self.getpos()[0]] = True
-        except:        
+        except:
             pass
 
     def handle_data(self, data):
         if self.getpos()[0] in self.posConfirm:
             #print(data)
             #There are employees without email/phone, so instead I just opted to remove that entirely, since I don't need it. Also because properly handling it
-            #wont work with the limitations of the htmlparser, unless I devise some way to find empty data fields. 
+            #wont work with the limitations of the htmlparser, unless I devise some way to find empty data fields.
             if len(data.split('@')) == 2:
                 return
             elif len(data.split('-')) == 3:
-                try: #apparently there's people out there with 2 hyphens in their name, so this is the weirdest edgecase i've had to code in. (Anne-Marie Bixler-Funk)
+                # apparently there's people out there with 2 hyphens in their name, so this is the weirdest edgecase i've had to code in. (Anne-Marie Bixler-Funk)
+                try:
                     if int(data.split('-')[0]):
                         return
                 except:
@@ -64,10 +66,9 @@ class htmlParserBase(HTMLParser):
                 self.location = data
             elif self.position == None:
                 self.position = data
-                self.employees[self.employee] = ({'location': self.location, 'position': self.position})
-                self.employee, self.location, self.position = None,None,None
-
-    
+                self.employees[self.employee] = (
+                    {'location': self.location, 'position': self.position})
+                self.employee, self.location, self.position = None, None, None
 
 
 def writeToJson(e, filename):
@@ -81,7 +82,6 @@ def writeToJson(e, filename):
         # for person in e:
         #     s += '- name: %s\n  location: %s\n  position: %s\n\n' % (person, e[person][0], e[person][1])
         # f.write(s)
-        
 
 
 if __name__ == "__main__":
