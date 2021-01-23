@@ -1,5 +1,5 @@
 from html.parser import HTMLParser
-
+import json
 
 def parseContent():
     """
@@ -32,11 +32,11 @@ class htmlParserBase(HTMLParser):
     employee: [Location, Position],
     }
     """
-    employee = ''
-    email = ''
-    phone = ''
-    location = ''
-    position = ''
+    employee = None
+    email = None
+    phone = None
+    location = None
+    position = None
 
     def handle_starttag(self, tag, attrs):
         try:
@@ -49,18 +49,18 @@ class htmlParserBase(HTMLParser):
     def handle_data(self, data):
         if self.getpos()[0] in self.posConfirm:
             #print(data)
-            if self.employee == '':
+            if self.employee == None:
                 self.employee = data
-            elif self.email == '':
+            elif self.email == None:
                 self.email = data
-            elif self.phone == '':
+            elif self.phone == None:
                 self.phone = data
-            elif self.location == '':
+            elif self.location == None:
                 self.location = data
-            elif self.position == '':
+            elif self.position == None:
                 self.position = data
                 self.employees[self.employee] = (self.location, self.position)
-                self.employee, self.email, self.phone, self.location, self.position = '','','','',''
+                self.employee, self.email, self.phone, self.location, self.position = None,None,None,None,None
 
 
 def writeToJson(e, filename):
@@ -68,10 +68,13 @@ def writeToJson(e, filename):
     Converts {employee: [Location, Position],...} to JSON
     """
     with open(filename, "w") as f:
+        json.dump(e, f)
+        """YML below
         s = 'employees:\n\n'
         for person in e:
             s += '- name: %s\n  location: %s\n  position: %s\n\n' % (person, e[person][0], e[person][1])
         f.write(s)
+        """
 
 
 if __name__ == "__main__":
@@ -79,5 +82,5 @@ if __name__ == "__main__":
     parser = htmlParserBase()
     parser.feed(content)
     print(parser.employees)
-    writeToJson(parser.employees, "employees.txt")
+    writeToJson(parser.employees, "employees.json")
     
