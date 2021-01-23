@@ -1,0 +1,6814 @@
+employees:
+
+- name: roxanne aaron
+  location: heartland early childhood cntr
+  position: audiologist
+
+- name: demelash abate
+  location: olathe west high school
+  position: custodial 2
+
+- name: elisa abbott
+  location: brougham elementary
+  position: computer learning associate
+
+- name: samira abdellaoui
+  location: pioneer trail middle school
+  position: food services school staff
+
+- name: barbara abernathey
+  location: bentwood elementary
+  position: grade 3 teacher
+
+- name: angela abnos
+  location: mill creek campus
+  position: parents as teachers
+
+- name: audrey abrahams
+  location: harmony early childhood cntr
+  position: para 2 early childhood disabil
+
+- name: rafael abreu diaz
+  location: arbor creek elementary
+  position: custodial 2
+
+- name: jesus abreu-diaz
+  location: heritage elementary
+  position: custodial 2
+
+- name: rafael abreu-mejia
+  location: chisholm trail middle school
+  position: custodial 2
+
+- name: austin acheson
+  location: district wide
+  position: hs assistant swim boys
+
+- name: staci acheson
+  location: arbor creek elementary
+  position: grade 1 teacher
+
+- name: annette ackerly
+  location: northview elementary
+  position: secretarial assistant
+
+- name: julianna ackerly
+  location: olathe south high school
+  position: math
+
+- name: alexandria acord
+  location: walnut grove elementary
+  position: computer learning associate
+
+- name: jill acosta
+  location: central elementary
+  position: para 1 resource
+
+- name: krystal actkinson
+  location: pleasant ridge elementary
+  position: principal
+
+- name: jerry adams
+  location: scarborough elementary
+  position: custodial 1 lead
+
+- name: michelle adams
+  location: food production center
+  position: food services production floor
+
+- name: benjamin adams
+  location: lone elm support center
+  position: maint grounds
+
+- name: cynthia adams
+  location: olathe west high school
+  position: spanish
+
+- name: betsy adams
+  location: walnut grove elementary
+  position: grade 3 teacher
+
+- name: mandy adcock
+  location: cedar creek elementary
+  position: grade 4 teacher
+
+- name: alexandra addington
+  location: woodland elementary
+  position: speech lang path
+
+- name: jennifer addington
+  location: pioneer trail middle school
+  position: social science
+
+- name: nora addison
+  location: central elementary
+  position: food services school staff
+
+- name: ann addison
+  location: instructional resource center
+  position: dir tchr induct/univer partnrs
+
+- name: amanda adee
+  location: westview elementary
+  position: title i math
+
+- name: amanda adkins
+  location: frontier trail middle school
+  position: science
+
+- name: patrick adkins
+  location: california trail middle school
+  position: resource room
+
+- name: ashley admire
+  location: olathe west high school
+  position: resource room
+
+- name: silvia aguilera madrigal
+  location: tomahawk elementary
+  position: custodial 2
+
+- name: kerrie ahrens
+  location: ridgeview elementary
+  position: para 1 speech
+
+- name: stephen ahrens
+  location: olathe north high school
+  position: instrumental music orch
+
+- name: brian aitken
+  location: olathe south high school
+  position: social science
+
+- name: salma akhter
+  location: indian trail middle school
+  position: para 3 center-based resource
+
+- name: amy akin
+  location: harmony early childhood cntr
+  position: para 3 ec autism
+
+- name: mark albers
+  location: technology support center
+  position: network technician 2
+
+- name: clinton albers
+  location: education center
+  position: asst superintendent
+
+- name: regan albertini
+  location: millbrooke elementary
+  position: speech lang path
+
+- name: lynda albrechtsen
+  location: washington elementary
+  position: instructional aide ell
+
+- name: michael albrechtsen
+  location: olathe north high school
+  position: art
+
+- name: margarita alcantara
+  location: olathe north high school
+  position: math
+
+- name: alexandra alcantara rios
+  location: head start program
+  position: head start teacher
+
+- name: john alden
+  location: summit trail middle school
+  position: food services school staff
+
+- name: michelle alderson
+  location: forest view elementary
+  position: custodial 2
+
+- name: scott aldrich
+  location: olathe west high school
+  position: business/computers
+
+- name: maryellen alex
+  location: madison place elementary
+  position: para 3 center-based resource
+
+- name: scarlett alex
+  location: millbrooke elementary
+  position: grade 2 teacher
+
+- name: dena alexander
+  location: regency place elementary
+  position: grade 3 teacher
+
+- name: shannon all
+  location: canyon creek elementary
+  position: occupational therapist
+
+- name: martha allee
+  location: arbor creek elementary
+  position: speech lang path
+
+- name: kaycee allen
+  location: prairie learning center
+  position: emotional disturbance
+
+- name: stacey allen
+  location: pioneer trail middle school
+  position: social science
+
+- name: susan allen
+  location: briarwood elementary
+  position: administrative secretary 6 pr
+
+- name: michael allen
+  location: olathe south high school
+  position: english
+
+- name: amanda allen
+  location: olathe west high school
+  position: para 1 resource
+
+- name: patrick allen
+  location: district wide
+  position: temp misc
+
+- name: jennifer allen
+  location: westview elementary
+  position: grade 3 teacher
+
+- name: jill allen
+  location: madison place elementary
+  position: food services school staff
+
+- name: joanne allio
+  location: heartland early childhood cntr
+  position: para 2 early childhood disabil
+
+- name: ramie allison
+  location: summit trail middle school
+  position: physical education
+
+- name: john allison
+  location: education center
+  position: superintendent
+
+- name: anwar almahmoudy
+  location: california trail middle school
+  position: custodial 2
+
+- name: reagan almos
+  location: district wide
+  position: itinerant teacher sub
+
+- name: janet alonso
+  location: canyon creek elementary
+  position: para 3 center-based resource
+
+- name: kimberly alquist
+  location: heritage elementary
+  position: kindergarten teacher
+
+- name: megan alspaugh
+  location: olathe south high school
+  position: social worker
+
+- name: linda alstott
+  location: fairview elementary
+  position: resource room
+
+- name: thomas alumbaugh
+  location: olathe adv technical center
+  position: para 3 job coach
+
+- name: francis alvarenga nunez
+  location: olathe east high school
+  position: custodial 2 lead
+
+- name: martha alvarez de ibarra
+  location: havencroft elementary
+  position: custodial 1 lead
+
+- name: mary alvarez-barkyoumb
+  location: olathe east high school
+  position: general secretary 3
+
+- name: hadeel alwadi
+  location: prairie center elementary
+  position: para 3 autism
+
+- name: diana amerine
+  location: heatherstone elementary
+  position: para 2 early childhood disabil
+
+- name: steve amershek
+  location: olathe south high school
+  position: art
+
+- name: merrie ammerman
+  location: northview elementary
+  position: food services school staff
+
+- name: renee amos
+  location: olathe northwest high school
+  position: general secretary 3
+
+- name: stacey amos
+  location: forest view elementary
+  position: grade 1 teacher
+
+- name: courtney anastasio
+  location: tomahawk elementary
+  position: speech lang path
+
+- name: estefany ancheta fuentes
+  location: operations service center
+  position: custodial 2
+
+- name: john anderle
+  location: olathe east high school
+  position: para 3 center-based resource
+
+- name: staci andersen
+  location: regency place elementary
+  position: grade 4 teacher
+
+- name: julie anderson
+  location: frontier trail middle school
+  position: business/computers
+
+- name: brenden anderson
+  location: technology support center
+  position: microsoft engineer
+
+- name: marcy anderson
+  location: manchester park elementary
+  position: grade 2 teacher
+
+- name: michelle anderson
+  location: california trail middle school
+  position: science
+
+- name: joshua anderson
+  location: olathe west high school
+  position: speech/drama
+
+- name: sara anderson
+  location: olathe west high school
+  position: nurse
+
+- name: erica anderson
+  location: instructional resource center
+  position: title i reading
+
+- name: tara anderson
+  location: olathe south high school
+  position: resource room
+
+- name: jennifer anderson
+  location: pleasant ridge elementary
+  position: resource room
+
+- name: james anderson
+  location: hs head bowling
+  position: cheryl anderson
+
+- name: caanderson@olatheschools.org
+  location: grade 5 teacher
+  position: beth andes
+
+- name: baandes@olatheschools.org
+  location: para 2 early childhood disabil
+  position: angela andrews
+
+- name: aandrews@olatheschools.org
+  location: resource room
+  position: monique angel
+
+- name: mlangelsb@olatheschools.org
+  location: temp para sub
+  position: maricela angeles
+
+- name: mangeles@olatheschools.org
+  location: custodial 2
+  position: veronica angeles mascote
+
+- name: vangelesmascote@olatheschools.org
+  location: food services school staff
+  position: adriana angeles-guzman
+
+- name: aaangelesguzman@olatheschools.org
+  location: food services school staff
+  position: cristal angeles-ibarra
+
+- name: cangelesibarra@olatheschools.org
+  location: instructional aide ell
+  position: kimberlyn angelo
+
+- name: kbangelo@olatheschools.org
+  location: instrumental music band
+  position: joan angelo
+
+- name: jangeloon@olatheschools.org
+  location: avid/aim tutor
+  position: shelley annis-fair
+
+- name: srannisfair@olatheschools.org
+  location: secretary health room asst
+  position: julie anselmi
+
+- name: janselmiprt@olatheschools.org
+  location: nurse
+  position: amy ansley
+
+- name: aansleywl@olatheschools.org
+  location: counselor
+  position: alison antwiler
+
+- name: alantwiler@olatheschools.org
+  location: english
+  position: jennifer anzalone
+
+- name: janzalone@olatheschools.org
+  location: director of total rewards
+  position: manuela anzures hernandez
+
+- name: manzureshernandez@olatheschools.org
+  location: custodial 2
+  position: jean apel
+
+- name: japel@olatheschools.org
+  location: library clerk elementary
+  position: scott appell
+
+- name: sbappell@olatheschools.org
+  location: principal assistant
+  position: kelly appell
+
+- name: kappellmt@olatheschools.org
+  location: math
+  position: amy applebaum
+
+- name: aapplebaum@olatheschools.org
+  location: family and consumer sci
+  position: nidia arellano
+
+- name: narellano@olatheschools.org
+  location: custodial 1
+  position: santos arevalo
+
+- name: sarevalooe@olatheschools.org
+  location: custodial 1
+  position: carlos arevalo rosa
+
+- name: caarevalorosa@olatheschools.org
+  location: custodial 2
+  position: aurelia arita
+
+- name: anarita@olatheschools.org
+  location: para 3 center-based resource
+  position: jacqueline armatas-giesecke
+
+- name: jkarmatasgiesecke@olatheschools.org
+  location: administrative secretary 2 pr
+  position: laura armstrong
+
+- name: larmstrongwl@olatheschools.org
+  location: grade 2 teacher
+  position: cheri armstrong
+
+- name: carmstrongft@olatheschools.org
+  location: english
+  position: kaylee armstrong
+
+- name: kdarmstrong@olatheschools.org
+  location: library clerk secondary
+  position: marya arnett
+
+- name: maarnett@olatheschools.org
+  location: speech lang path
+  position: daniel arnett
+
+- name: djarnett@olatheschools.org
+  location: custodial 2
+  position: tana arnold
+
+- name: tmarnold@olatheschools.org
+  location: pbis coach
+  position: anita arnold
+
+- name: amarnold@olatheschools.org
+  location: resource room
+  position: sharon arnold
+
+- name: slarnold@olatheschools.org
+  location: alternative education aide ii
+  position: dustin arnold
+
+- name: darnoldft@olatheschools.org
+  location: social science
+  position: kerri arnold
+
+- name: kjarnold@olatheschools.org
+  location: para 3 center-based resource
+  position: susan aronson
+
+- name: smaronson@olatheschools.org
+  location: administrative secretary 3
+  position: claudia arzate olono
+
+- name: ckarzateolono@olatheschools.org
+  location: custodial 1
+  position: rebekah asher
+
+- name: rlasher@olatheschools.org
+  location: instructional aide fdk
+  position: kalli asikainen
+
+- name: kasikainenft@olatheschools.org
+  location: math
+  position: molly askew
+
+- name: msaskew@olatheschools.org
+  location: mental health professionals
+  position: amy ast
+
+- name: acast@olatheschools.org
+  location: english
+  position: nadia astoquilca jackson
+
+- name: nastoquilcajackson@olatheschools.org
+  location: instructional aide jump start
+  position: allyson atchity
+
+- name: aatchitycw@olatheschools.org
+  location: grade 1 teacher
+  position: nicole atencio
+
+- name: natencioirc@olatheschools.org
+  location: manager assessment
+  position: meti atoma
+
+- name: mwatoma@olatheschools.org
+  location: custodial 2
+  position: hamerti atoma
+
+- name: hwatoma@olatheschools.org
+  location: custodial 2
+  position: cynthia atteberry
+
+- name: catteberryss@olatheschools.org
+  location: secretarial assistant
+  position: stephanie attwood
+
+- name: sjattwood@olatheschools.org
+  location: grade 3 teacher
+  position: evan aubrey
+
+- name: euaubrey@olatheschools.org
+  location: custodial 1
+  position: katherine auld
+
+- name: ktauld@olatheschools.org
+  location: grade 4 teacher
+  position: jean aulick
+
+- name: jaaulick@olatheschools.org
+  location: para 3 center-based resource
+  position: sara ault
+
+- name: saultec@olatheschools.org
+  location: manager accounts payable
+  position: sara ault
+
+- name: ssault@olatheschools.org
+  location: grade 1 teacher
+  position: james austin
+
+- name: jtaustin@olatheschools.org
+  location: instrumental music band
+  position: patricia austin
+
+- name: paaustin@olatheschools.org
+  location: para 3 autism
+  position: bryon autrey
+
+- name: bautreyac@olatheschools.org
+  location: grade 5 teacher
+  position: laura autrey
+
+- name: lautreyac@olatheschools.org
+  location: grade 1 teacher
+  position: jayden avena
+
+- name: 913-780-7000
+  location: julie white
+  position: jwhiteot@olatheschools.org
+
+- name: 913-780-7280
+  location: ashley weber
+  position: aeweber@olatheschools.org
+
+- name: 913-780-7020
+  location: julie way
+  position: jaway@olatheschools.org
+
+- name: 913-780-7015
+  location: ellen stark
+  position: ejstark@olatheschools.org
+
+- name: 913-780-7180
+  location: rebecca widler
+  position: rwidlerft@olatheschools.org
+
+- name: 913-780-7160
+  location: paul williams
+  position: pwilliamson@olatheschools.org
+
+- name: 913-780-7590
+  location: stephanie weis-besel
+  position: sbeselac@olatheschools.org
+
+- name: 913-780-7220
+  location: brittni wilhelm
+  position: bjwilhelm@olatheschools.org
+
+- name: 913-780-7260
+  location: maelee williams
+  position: mswilliams@olatheschools.org
+
+- name: 913-780-7770
+  location: barbara weber
+  position: bweberirc@olatheschools.org
+
+- name: 913-780-7390
+  location: jill wilcox
+  position: jwilcoxirc@olatheschools.org
+
+- name: 913-780-7330
+  location: karen white
+  position: kcwhite@olatheschools.org
+
+- name: 913-780-7560
+  location: bonnie wilhoit
+  position: bwilhoitos@olatheschools.org
+
+- name: 913-780-7005
+  location: cassandra wetzel
+  position: cawetzel@olatheschools.org
+
+- name: 913-780-7140
+  location: julie williams
+  position: jumwilliams@olatheschools.org
+
+- name: 913-780-7410
+  location: stefanie williams
+  position: sswilliams@olatheschools.org
+
+- name: 913-780-7650
+  location: michael wiley
+  position: mwileyct@olatheschools.org
+
+- name: 913-780-7380
+  location: mary williams
+  position: mswilliamsml@olatheschools.org
+
+- name: 913-780-7370
+  location: madison wilkins
+  position: mnwilkins@olatheschools.org
+
+- name: 913-780-7630
+  location: gary stevenson
+  position: gstevensonmd@olatheschools.org
+
+- name: 913-780-7730
+  location: sharon whitener
+  position: stwhitener@olatheschools.org
+
+- name: 913-780-7120
+  location: alonzo williams
+  position: 913-780-7000
+
+- name: 913-780-7290
+  location: kelly whitfield
+  position: kwhitfieldhc@olatheschools.org
+
+- name: 913-780-7520
+  location: cynthia wampler
+  position: clwampler@olatheschools.org
+
+- name: 913-780-7640
+  location: lisa whallon
+  position: lmwhallon@olatheschools.org
+
+- name: 913-780-7540
+  location: carmen weyrauch
+  position: cweyrauchrw@olatheschools.org
+
+- name: 913-780-7530
+  location: taylor weber
+  position: tmweber@olatheschools.org
+
+- name: 913-780-7150
+  location: sarah white
+  position: swhitenv@olatheschools.org
+
+- name: 913-780-7310
+  location: jeffrey walton
+  position: jwaltonon@olatheschools.org
+
+- name: 913-780-7490
+  location: toni wherley
+  position: tjwherley@olatheschools.org
+
+- name: 913-780-7450
+  location: elizabeth whitcomb
+  position: elwhitcomb@olatheschools.org
+
+- name: 913-780-7440
+  location: anna stigall
+  position: amstigall@olatheschools.org
+
+- name: 913-780-7250
+  location: christi whitecotton
+  position: cawhitecotton@olatheschools.org
+
+- name: 913-780-7300
+  location: anna weiser
+  position: amweiser@olatheschools.org
+
+- name: 913-780-7550
+  location: justin williams
+  position: jwilliamsoe@olatheschools.org
+
+- name: 913-780-7880
+  location: amanda whitsell
+  position: awhitsellmb@olatheschools.org
+
+- name: 913-780-7470
+  location: courtney wilkinson
+  position: cmwilkinson@olatheschools.org
+
+- name: 913-780-7210
+  location: angela wilcoxen
+  position: awilcoxenit@olatheschools.org
+
+- name: 913-780-7360
+  location: lindsay waller
+  position: ldwaller@olatheschools.org
+
+- name: 913-764-7411
+  location: steven barrios
+  position: smbarrios@olatheschools.org
+
+- name: 913-780-7014
+  location: christina williams
+  position: cwilliamsbr@olatheschools.org
+
+- name: 913-780-7350
+  location: sarah williams
+  position: swilliamscst@olatheschools.org
+
+- name: 913-780-7230
+  location: gunnar williams
+  position: gmwilliams@olatheschools.org
+
+- name: 913-780-7026
+  location: rachel stone
+  position: restone@olatheschools.org
+
+- name: 913-780-7270
+  location: lori wilkinson
+  position: ljwilkinson@olatheschools.org
+
+- name: 913-780-7690
+  location: kimberly westrope
+  position: kwestropeic@olatheschools.org
+
+- name: 913-780-7480
+  location: susan willard
+  position: swillardwg@olatheschools.org
+
+- name: 913-780-7710
+  location: codi willard
+  position: cdwillard@olatheschools.org
+
+- name: 913-780-7011
+  location: griffin williams
+  position: gdwilliams@olatheschools.org
+
+- name: 913-780-7400
+  location: julia walker
+  position: jfwalker@olatheschools.org
+
+- name: 913-780-7620
+  location: ainsley wilbur
+  position: aawilbur@olatheschools.org
+
+- name: 913-780-7240
+  location: jacqui williams
+  position: jamwilliams@olatheschools.org
+
+- name: 913-780-8251
+  location: teresita derting
+  position: tderting@olatheschools.org
+
+- name: 913-780-7570
+  location: gregory white
+  position: gwhitect@olatheschools.org
+
+- name: 913-780-7003
+  location: michelle staples
+  position: mjstaples@olatheschools.org
+
+- name: 913-780-7610
+  location: leslye wilhm
+  position: lwilhmon@olatheschools.org
+
+- name: 913-780-7680
+  location: kristen white
+  position: kmwhite@olatheschools.org
+
+- name: 913-780-8029
+  location: amy burton
+  position: aburtonrr@olatheschools.org
+
+- name: 913-780-7006
+  location: vickie wilcox
+  position: vlwilcox@olatheschools.org
+
+- name: 913-780-7200
+  location: karen walls
+  position: kmwalls@olatheschools.org
+
+- name: 913-780-7320
+  location: rebecca white
+  position: rwhitebw@olatheschools.org
+
+- name: 913-780-7430
+  location: leon washington
+  position: ltwashington@olatheschools.org
+
+- name: 913-780-7510
+  location: jennifer wetterstrom
+  position: jwetterstromfpc@olatheschools.org
+
+- name: 913-780-7017
+  location: michelle williams
+  position: mwilliamsml@olatheschools.org
+
+- name: 913-780-7670
+  location: megan whitworth
+  position: mwhitworthpt@olatheschools.org
+
+- name: 913-780-7750
+  location: deborah weimerskirk
+  position: dweimerskirkfpc@olatheschools.org
+
+- name: 913-780-7417
+  location: amy spratford
+  position: amspratford@olatheschools.org
+
+- name: district wide
+  location: hwilliamscw@olatheschools.org
+  position: 913-780-7380
+
+- name: canyon creek elementary
+  location: jataylor@olatheschools.org
+  position: 913-780-7770
+
+- name: washington elementary
+  location: lwiltangermt@olatheschools.org
+  position: 913-780-7260
+
+- name: indian trail middle school
+  location: nrwilliamson@olatheschools.org
+  position: 913-780-7710
+
+- name: oregon trail middle school
+  location: catalmage@olatheschools.org
+  position: 913-780-7520
+
+- name: clearwater creek elementary
+  location: mwilliamsmp@olatheschools.org
+  position: 913-780-7540
+
+- name: walnut grove elementary
+  location: spwilliamson@olatheschools.org
+  position: 913-780-7410
+
+- name: regency place elementary
+  location: kswilly@olatheschools.org
+  position: 913-780-7160
+
+- name: olathe north high school
+  location: 913-780-7000
+  position: district wide
+
+- name: scarborough elementary
+  location: awinkleronw@olatheschools.org
+  position: 913-780-7150
+
+- name: woodland elementary
+  location: blwilson@olatheschools.org
+  position: 913-780-7730
+
+- name: olathe south high school
+  location: kiswilson@olatheschools.org
+  position: 913-780-7650
+
+- name: westview elementary
+  location: scsuhr@olatheschools.org
+  position: 913-780-7200
+
+- name: technology support center
+  location: crwind@olatheschools.org
+  position: 913-780-7200
+
+- name: california trail middle school
+  location: rathomas@olatheschools.org
+  position: 913-780-7005
+
+- name: rolling ridge elementary
+  location: hlwilson@olatheschools.org
+  position: 913-780-7260
+
+- name: olathe northwest high school
+  location: anwinslow@olatheschools.org
+  position: 913-780-7410
+
+- name: west dennis learning center
+  location: kfeightnerpt@olatheschools.org
+  position: 913-780-7270
+
+- name: black bob elementary
+  location: cesutherland@olatheschools.org
+  position: 913-780-7220
+
+- name: sunnyside elementary
+  location: haroney@olatheschools.org
+  position: 913-780-7640
+
+- name: indian creek elementary
+  location: asyhaboutmt@olatheschools.org
+  position: 913-780-7260
+
+- name: pleasant ridge elementary
+  location: jrthibaudeau@olatheschools.org
+  position: 913-780-7120
+
+- name: prairie trail middle school
+  location: arwilson@olatheschools.org
+  position: 913-780-7770
+
+- name: madison place elementary
+  location: sltappan@olatheschools.org
+  position: 913-780-7880
+
+- name: briarwood elementary
+  location: laterry@olatheschools.org
+  position: 913-780-7380
+
+- name: olathe east high school
+  location: cthielsb@olatheschools.org
+  position: 913-780-7140
+
+- name: instructional resource center
+  location: jbwilson@olatheschools.org
+  position: 913-780-7450
+
+- name: food production center
+  location: dathomas@olatheschools.org
+  position: 913-780-7290
+
+- name: olathe west high school
+  location: ckwinger@olatheschools.org
+  position: 913-780-7150
+
+- name: havencroft elementary
+  location: mbthibodeau@olatheschools.org
+  position: 913-780-7005
+
+- name: santa fe trail middle school
+  location: 913-780-7000
+  position: district wide
+
+- name: manchester park elementary
+  location: jtwilliams@olatheschools.org
+  position: 913-780-7270
+
+- name: pioneer trail middle school
+  location: jrwilliams@olatheschools.org
+  position: 913-780-7140
+
+- name: mission trail middle school
+  location: dawinchel@olatheschools.org
+  position: 913-780-7020
+
+- name: operations service center
+  location: dsweanyft@olatheschools.org
+  position: 913-780-7210
+
+- name: heartland early childhood cntr
+  location: slwinsor@olatheschools.org
+  position: 913-780-7140
+
+- name: heritage elementary
+  location: crthibeault@olatheschools.org
+  position: 913-780-7140
+
+- name: forest view elementary
+  location: sterrillrw@olatheschools.org
+  position: 913-780-7640
+
+- name: education center
+  location: nosvilarich@olatheschools.org
+  position: 913-780-7290
+
+- name: green springs elementary
+  location: ldwilson@olatheschools.org
+  position: 913-780-7160
+
+- name: heatherstone elementary
+  location: rjtaylor@olatheschools.org
+  position: 913-780-7200
+
+- name: northview elementary
+  location: emstuckey@olatheschools.org
+  position: 913-780-7380
+
+- name: chisholm trail middle school
+  location: jtayanion@olatheschools.org
+  position: 913-780-7140
+
+- name: arbor creek elementary
+  location: dsullivanon@olatheschools.org
+  position: 913-780-7140
+
+- name: prairie center elementary
+  location: tterhunecc@olatheschools.org
+  position: 913-780-7360
+
+- name: summit trail middle school
+  location: rdwindholz@olatheschools.org
+  position: 913-780-7180
+
+- name: brougham elementary
+  location: rarundberg@olatheschools.org
+  position: 913-780-7290
+
+- name: millbrooke elementary
+  location: mtempletonpc@olatheschools.org
+  position: 913-780-7610
+
+- name: fairview elementary
+  location: letaylor@olatheschools.org
+  position: 913-780-7480
+
+- name: head start program
+  location: lwilsoncs@olatheschools.org
+  position: 913-780-7390
+
+- name: mahaffie elementary
+  location: rreiston@olatheschools.org
+  position: 913-780-7140
+
+- name: mill creek campus
+  location: bntelg@olatheschools.org
+  position: 913-780-7560
+
+- name: harmony early childhood cntr
+  location: mdteefey@olatheschools.org
+  position: 913-780-7160
+
+- name: central elementary
+  location: kwillnauerrp@olatheschools.org
+  position: 913-780-7620
+
+- name: hs assistant wrestling girls
+  location: 913-780-7320
+  position: bentwood elementary
+
+- name: secretarial assistant
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: custodial 2
+  location: 913-780-7360
+  position: cedar creek elementary
+
+- name: para 2 early childhood disabil
+  location: 913-780-7140
+  position: olathe north high school
+
+- name: para 3 center-based resource
+  location: 913-780-7630
+  position: ridgeview elementary
+
+- name: para 1 speech
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: food services school staff
+  location: 913-780-7470
+  position: havencroft elementary
+
+- name: madeline cheatham
+  location: woodland elementary
+  position: grade 5 teacher
+
+- name: nancy cheatham
+  location: education center
+  position: executive assistant 1
+
+- name: satvinder cheema
+  location: green springs elementary
+  position: food services school staff
+
+- name: judy cheney
+  location: millbrooke elementary
+  position: secretarial assistant
+
+- name: kelly chenoweth
+  location: olathe north high school
+  position: general secretary 6
+
+- name: brittany chermok
+  location: oregon trail middle school
+  position: para 3 center-based resource
+
+- name: jamie cherpitel
+  location: olathe northwest high school
+  position: counselor
+
+- name: cynthia cherry
+  location: instructional resource center
+  position: administrative secretary 2
+
+- name: shauna cheshier
+  location: green springs elementary
+  position: secretarial assistant
+
+- name: marcella chestnut
+  location: prairie learning center
+  position: para 4 behavior instr asst
+
+- name: janelle chhabra
+  location: sunnyside elementary
+  position: instructional aide fdk
+
+- name: harvrinder chhina
+  location: tomahawk elementary
+  position: food services school staff
+
+- name: lou chipman
+  location: regency place elementary
+  position: secretarial assistant
+
+- name: rhonda chism
+  location: brougham elementary
+  position: library media specialist
+
+- name: amanda chitty
+  location: california trail middle school
+  position: para 3 center-based resource
+
+- name: heather choate
+  location: education center
+  position: executive assistant 1
+
+- name: bailey christensen
+  location: madison place elementary
+  position: center-based resource
+
+- name: jennifer christensen
+  location: olathe west high school
+  position: para 3 autism
+
+- name: jeanne christenson
+  location: ridgeview elementary
+  position: para 3 center-based resource
+
+- name: adam christopher
+  location: olathe south high school
+  position: social science
+
+- name: karla christy
+  location: ravenwood elementary
+  position: kindergarten teacher
+
+- name: claudia chuang
+  location: california trail middle school
+  position: para 3 center-based resource
+
+- name: tae chung
+  location: olathe west high school
+  position: math
+
+- name: jamie cigich
+  location: ravenwood elementary
+  position: library media specialist
+
+- name: lisa ciminieri
+  location: briarwood elementary
+  position: grade 4 teacher
+
+- name: alison cipra
+  location: olathe northwest high school
+  position: secretarial assistant
+
+- name: regina cira
+  location: mahaffie elementary
+  position: para 3 center-based resource
+
+- name: kelley cirrito
+  location: madison place elementary
+  position: grade 4 teacher
+
+- name: katherine cisneros
+  location: washington elementary
+  position: para 3 center-based resource
+
+- name: abilene cisneros
+  location: head start program
+  position: head start teacher assoc
+
+- name: catherine clark
+  location: heritage elementary
+  position: para 3 center-based resource
+
+- name: phyllis clark
+  location: olathe west high school
+  position: math
+
+- name: melissa clark
+  location: olathe northwest high school
+  position: spanish
+
+- name: colleen clark
+  location: oregon trail middle school
+  position: resource room
+
+- name: tamara clark
+  location: frontier trail middle school
+  position: physical education
+
+- name: rachel clark
+  location: rolling ridge elementary
+  position: general music
+
+- name: lorne clark
+  location: olathe northwest high school
+  position: science
+
+- name: carla clark
+  location: cedar creek elementary
+  position: nurse
+
+- name: holly clark
+  location: rolling ridge elementary
+  position: computer learning associate
+
+- name: tina clark
+  location: arbor creek elementary
+  position: kindergarten teacher
+
+- name: james clark
+  location: prairie trail middle school
+  position: custodial 2
+
+- name: joseph clark
+  location: food production center
+  position: food services warehouse 9 mo
+
+- name: douglas clark
+  location: olathe south high school
+  position: reading
+
+- name: candice clark
+  location: olathe west high school
+  position: para 3 job coach
+
+- name: lauren clark
+  location: olathe northwest high school
+  position: math
+
+- name: diane clark
+  location: california trail middle school
+  position: para 1 resource
+
+- name: theresa clark
+  location: chisholm trail middle school
+  position: math
+
+- name: kelly claussen
+  location: canyon creek elementary
+  position: para 2 early childhood disabil
+
+- name: denise claxton
+  location: heartland early childhood cntr
+  position: para 3 audiology
+
+- name: joseph claycomb
+  location: district wide
+  position: hs assistant swim boys
+
+- name: chloe clayton
+  location: prairie center elementary
+  position: secretarial assistant
+
+- name: christi clayton
+  location: instructional resource center
+  position: ell instructional coach
+
+- name: carter clem
+  location: havencroft elementary
+  position: grade 5 teacher
+
+- name: amy clement
+  location: olathe north high school
+  position: science
+
+- name: tedra clements
+  location: education center
+  position: payroll assistant
+
+- name: pamela clemons
+  location: olathe northwest high school
+  position: para 3 center-based resource
+
+- name: dawn cleveland
+  location: washington elementary
+  position: grade 4 teacher
+
+- name: jessica click
+  location: rolling ridge elementary
+  position: counselor
+
+- name: katherine clifford
+  location: prairie learning center
+  position: para 4 behavior instr asst
+
+- name: ivy cline
+  location: clearwater creek elementary
+  position: grade 1 teacher
+
+- name: megan cline
+  location: summit trail middle school
+  position: gifted
+
+- name: abby clinton
+  location: havencroft elementary
+  position: kindergarten teacher
+
+- name: mitchell cloud
+  location: fairview elementary
+  position: counselor
+
+- name: darcie clum
+  location: oregon trail middle school
+  position: english
+
+- name: heather clyne
+  location: washington elementary
+  position: instructional aide ell
+
+- name: stacey coad
+  location: millbrooke elementary
+  position: kindergarten teacher
+
+- name: jocelyn cobos
+  location: olathe north high school
+  position: international language interp
+
+- name: patricia cochenour
+  location: olathe west high school
+  position: para 3 emotional disturbance
+
+- name: lisa cochran
+  location: westview elementary
+  position: secretarial assistant
+
+- name: jill cochran
+  location: mission trail middle school
+  position: english
+
+- name: sarah coddington
+  location: olathe east high school
+  position: science
+
+- name: jenifer coe
+  location: mahaffie elementary
+  position: kindergarten teacher
+
+- name: jacqueline coffin
+  location: pioneer trail middle school
+  position: resource room
+
+- name: leslea coggin
+  location: meadow lane elementary
+  position: resource room
+
+- name: leah cogswell
+  location: olathe northwest high school
+  position: principal assistant
+
+- name: erica cohan
+  location: olathe northwest high school
+  position: science
+
+- name: jan cohick
+  location: olathe northwest high school
+  position: accompanist
+
+- name: julie cohorst
+  location: santa fe trail middle school
+  position: english
+
+- name: valerie colburn-nichols
+  location: indian trail middle school
+  position: custodial 2
+
+- name: jyneidra cole
+  location: cedar creek elementary
+  position: para 3 center-based resource
+
+- name: tammy cole
+  location: olathe south high school
+  position: english
+
+- name: toni cole
+  location: heatherstone elementary
+  position: principal
+
+- name: kristina cole
+  location: heartland early childhood cntr
+  position: para 4 autism instruction asst
+
+- name: hillary cole
+  location: central elementary
+  position: ell teacher
+
+- name: james cole
+  location: california trail middle school
+  position: science
+
+- name: john cole
+  location: ravenwood elementary
+  position: custodial 2
+
+- name: jennifer cole
+  location: regency place elementary
+  position: instructional aide ell
+
+- name: shawna cole
+  location: district wide
+  position: hs head swim boys
+
+- name: kathryn coleman
+  location: arbor creek elementary
+  position: resource room
+
+- name: timothy coleman
+  location: olathe south high school
+  position: substitute teacher
+
+- name: sarah coleman
+  location: green springs elementary
+  position: resource room
+
+- name: virginia coleman
+  location: olathe south high school
+  position: food services school staff
+
+- name: marlene colgan
+  location: technology support center
+  position: manager web architect
+
+- name: fabiola colin
+  location: olathe west high school
+  position: custodial 1 lead
+
+- name: margaret collins
+  location: california trail middle school
+  position: physical education
+
+- name: samantha collins
+  location: chisholm trail middle school
+  position: english
+
+- name: william collins
+  location: hs assistant wrestling
+  position: jessica collins
+
+- name: jlcollins@olatheschools.org
+  location: business/computers
+  position: margaret collins
+
+- name: macollins@olatheschools.org
+  location: para 2 early childhood disabil
+  position: anne collins
+
+- name: akcollins@olatheschools.org
+  location: nurse
+  position: jessica colson adell
+
+- name: jlcolsonadell@olatheschools.org
+  location: counselor
+  position: zachary colvin
+
+- name: zlcolvin@olatheschools.org
+  location: industrial tech
+  position: erin colvin
+
+- name: eecolvin@olatheschools.org
+  location: family and consumer sci
+  position: kevin colwell
+
+- name: kjcolwell@olatheschools.org
+  location: math
+  position: jason comer
+
+- name: jcomerft@olatheschools.org
+  location: custodial 1 lead
+  position: wendy comer
+
+- name: wcomersc@olatheschools.org
+  location: secretarial assistant
+  position: tara comfort
+
+- name: tlcomfort@olatheschools.org
+  location: science
+  position: rachel comfort
+
+- name: rcomforthc@olatheschools.org
+  location: occupational therapist
+  position: katherine comiskey
+
+- name: klcomiskey@olatheschools.org
+  location: english
+  position: stephanie conklin
+
+- name: sconklinbr@olatheschools.org
+  location: principal
+  position: katie conn
+
+- name: klconn@olatheschools.org
+  location: grade 3 teacher
+  position: colleen connealy
+
+- name: cconnealymp@olatheschools.org
+  location: art
+  position: joshua conner
+
+- name: jconnerprt@olatheschools.org
+  location: science
+  position: rebekah consiglio
+
+- name: rconsiglioit@olatheschools.org
+  location: english
+  position: jennifer constance
+
+- name: jsconstance@olatheschools.org
+  location: business/computers
+  position: madison conway
+
+- name: mconwayonw@olatheschools.org
+  location: spanish
+  position: lori conway
+
+- name: laconway@olatheschools.org
+  location: para 3 center-based resource
+  position: kristin cook
+
+- name: kjcook@olatheschools.org
+  location: general secretary 3
+  position: cassandra cook
+
+- name: cjcook@olatheschools.org
+  location: para 4 autism instruction asst
+  position: christine cook
+
+- name: cmcook@olatheschools.org
+  location: library clerk secondary
+  position: siara cook
+
+- name: slcook@olatheschools.org
+  location: para 4 autism instruction asst
+  position: jeanne cook
+
+- name: jacook@olatheschools.org
+  location: resource room
+  position: wade cook
+
+- name: ncookos@olatheschools.org
+  location: social science
+  position: gage cook
+
+- name: gwcook@olatheschools.org
+  location: para 3 autism
+  position: katherine cook
+
+- name: kcookhlc@olatheschools.org
+  location: autism specialist 1
+  position: christa cook
+
+- name: cscook@olatheschools.org
+  location: social worker
+  position: lisa cooksey
+
+- name: lcooksey@olatheschools.org
+  location: general secretary 3
+  position: nicholas cooley
+
+- name: ndcooley@olatheschools.org
+  location: general school aide
+  position: julie coons
+
+- name: jscoons@olatheschools.org
+  location: para 3 center-based resource
+  position: karen cooper
+
+- name: kscooper@olatheschools.org
+  location: para 3 job coach
+  position: courtney cooper
+
+- name: cecooper@olatheschools.org
+  location: grade 4 teacher
+  position: sheryl cooper
+
+- name: slcooper@olatheschools.org
+  location: counselor
+  position: kyle cooper
+
+- name: klcooper@olatheschools.org
+  location: computer learning associate
+  position: jeffrey cooper
+
+- name: jcooperonw@olatheschools.org
+  location: e communications
+  position: mollie cooper
+
+- name: mcooperot@olatheschools.org
+  location: family and consumer sci
+  position: mary cooper
+
+- name: mcooperfpc@olatheschools.org
+  location: food services school staff
+  position: karlie cooper
+
+- name: kncooper@olatheschools.org
+  location: math
+  position: amber coppenbarger
+
+- name: acoppenbarger@olatheschools.org
+  location: resource room
+  position: theresa corder
+
+- name: tscorder@olatheschools.org
+  location: para 3 job coach
+  position: bailey cormack
+
+- name: bacormack@olatheschools.org
+  location: grade 3 teacher
+  position: joselino cornejo
+
+- name: jcornejo@olatheschools.org
+  location: custodial 2
+  position: angel cornejo
+
+- name: acornejoos@olatheschools.org
+  location: spanish
+  position: eunise cornejo
+
+- name: ecornejowv@olatheschools.org
+  location: nurse
+  position: lourdes cornejo
+
+- name: lcornejohlc@olatheschools.org
+  location: custodial 1 lead
+  position: jason cornelison
+
+- name: jcornelisonwdsc@olatheschools.org
+  location: maint hvac
+  position: rebecca cornelius
+
+- name: rcorneliuscc@olatheschools.org
+  location: school psychologist
+  position: jenna corrow
+
+- name: jrcorrow@olatheschools.org
+  location: ell teacher
+  position: brianna cortes
+
+- name: bdcortes@olatheschools.org
+  location: para 1 resource
+  position: itzel cortez gutierrez
+
+- name: ipcortezgutierrez@olatheschools.org
+  location: head start teacher assoc
+  position: patricia cosentino
+
+- name: pecosentino@olatheschools.org
+  location: parents as teachers
+  position: wendy cost
+
+- name: wcostonw@olatheschools.org
+  location: bookkeeper 2
+  position: joy costa
+
+- name: jrcosta@olatheschools.org
+  location: assistant purchasing buyer
+  position: rita costello
+
+- name: rhcostello@olatheschools.org
+  location: library media specialist
+  position: brenda coto
+
+- name: bacoto@olatheschools.org
+  location: general secretary 2
+  position: angela cottingham
+
+- name: acottinghamwa@olatheschools.org
+  location: administrative secretary 1
+  position: kristin cotton
+
+- name: kncotton@olatheschools.org
+  location: kindergarten teacher
+  position: lindsay cotton
+
+- name: lecotton@olatheschools.org
+  location: grade 4 teacher
+  position: lawrence couch
+
+- name: lmcouch@olatheschools.org
+  location: para 3 job coach
+  position: linda couch
+
+- name: llcouch@olatheschools.org
+  location: administrative secretary 1
+  position: jennifer coughlin
+
+- name: jcoughlinit@olatheschools.org
+  location: math
+  position: chad coughlin
+
+- name: ccoughlinos@olatheschools.org
+  location: instrumental music band
+  position: christine courter
+
+- name: cmcourter@olatheschools.org
+  location: para 1 resource
+  position: eryn coverdale
+
+- name: eocoverdale@olatheschools.org
+  location: para 3 autism
+  position: alexa cowan
+
+- name: abcowan@olatheschools.org
+  location: kindergarten teacher
+  position: tina cowden
+
+- name: tcowdenac@olatheschools.org
+  location: grade 2 teacher
+  position: summer cowick
+
+- name: sacowick@olatheschools.org
+  location: gifted
+  position: dennis cowick
+
+- name: decowick@olatheschools.org
+  location: custodial 1 lead
+  position: dennis cox
+
+- name: dgcox@olatheschools.org
+  location: maint plumber
+  position: tanya cox
+
+- name: tecox@olatheschools.org
+  location: spanish
+  position: mikayla cox
+
+- name: mrcox@olatheschools.org
+  location: itinerant teacher sub
+  position: cherryl cox
+
+- name: cacox@olatheschools.org
+  location: computer learning associate
+  position: wendi cox
+
+- name: wjcox@olatheschools.org
+  location: para 3 center-based resource
+  position: catherine cox
+
+- name: ccoxit@olatheschools.org
+  location: resource room
+  position: sean coyan
+
+- name: slcoyan@olatheschools.org
+  location: maint locksmith
+  position: michele cozart
+
+- name: mlcozart@olatheschools.org
+  location: computer learning associate
+  position: katherine crabtree
+
+- name: kcrabtreepr@olatheschools.org
+  location: counselor
+  position: myra craig
+
+- name: macraig@olatheschools.org
+  location: nurse
+  position: julia crainshaw
+
+- name: jdcrainshaw@olatheschools.org
+  location: library media specialist
+  position: elizabeth crandall
+
+- name: ecrandallac@olatheschools.org
+  location: grade 4 teacher
+  position: tunisia crane
+
+- name: tncrane@olatheschools.org
+  location: social worker
+  position: connie crawford
+
+- name: clcrawford@olatheschools.org
+  location: para 3 visual
+  position: candace crawford
+
+- name: ccrawfordce@olatheschools.org
+  location: art
+  position: fred crawshaw
+
+- name: facrawshaw@olatheschools.org
+  location: custodial 1 lead
+  position: janet creeden
+
+- name: jacreeden@olatheschools.org
+  location: library media specialist
+  position: jennifer creek
+
+- name: jcreekoe@olatheschools.org
+  location: instrumental music band
+  position: ashley crenshaw
+
+- name: ancrenshaw@olatheschools.org
+  location: emotional disturbance
+  position: rachel crews
+
+- name: rpcrews@olatheschools.org
+  location: social worker
+  position: ivy crigger
+
+- name: ircrigger@olatheschools.org
+  location: para 3 center-based resource
+  position: dyanne crist
+
+- name: dlcrist@olatheschools.org
+  location: food serv asst manager
+  position: carrie critcher
+
+- name: cacritcher@olatheschools.org
+  location: food services school staff
+  position: norma crocker
+
+- name: njcrocker@olatheschools.org
+  location: nurse
+  position: elizabeth crocker
+
+- name: ecrockermt@olatheschools.org
+  location: english
+  position: leslie crocker
+
+- name: lacrocker@olatheschools.org
+  location: library clerk elementary
+  position: shana crockett
+
+- name: sncrockett@olatheschools.org
+  location: hr generalist
+  position: matthew croft
+
+- name: mcroftos@olatheschools.org
+  location: social science
+  position: bryan croft
+
+- name: bacroft@olatheschools.org
+  location: para 3 center-based resource
+  position: lindsay croft
+
+- name: lcroftce@olatheschools.org
+  location: grade 5 teacher
+  position: victoria cromer
+
+- name: vcromercst@olatheschools.org
+  location: social science
+  position: carrie cronan
+
+- name: cbcronan@olatheschools.org
+  location: business/computers
+  position: andrea croni
+
+- name: acroninon@olatheschools.org
+  location: resource room
+  position: jennifer cross
+
+- name: jrcross@olatheschools.org
+  location: para 3 center-based resource
+  position: gary cross
+
+- name: glcross@olatheschools.org
+  location: custodial 1 lead
+  position: tiffany cross
+
+- name: tlcross@olatheschools.org
+  location: math
+  position: michele crossman
+
+- name: mrcrossman@olatheschools.org
+  location: ell teacher
+  position: shawn croushore
+
+- name: scroushorept@olatheschools.org
+  location: custodial 1 lead
+  position: joshua crow
+
+- name: jacrow@olatheschools.org
+  location: food services school staff
+  position: laurie crowder
+
+- name: ldcrowder@olatheschools.org
+  location: para 1 occupational therapy
+  position: lori crowther
+
+- name: lcrowthersc@olatheschools.org
+  location: counselor
+  position: tylor crumrine
+
+- name: 913-780-7093
+  location: miranda igert
+  position: mligert@olatheschools.org
+
+- name: countryside elementary
+  location: kgwilson@olatheschools.org
+  position: 913-780-7280
+
+- name: cedar creek elementary
+  location: kgternus@olatheschools.org
+  position: 913-780-7150
+
+- name: frontier trail middle school
+  location: jmtaylor@olatheschools.org
+  position: 913-780-7670
+
+- name: prairie learning center
+  location: kjtanner@olatheschools.org
+  position: 913-780-7280
+
+- name: ridgeview elementary
+  location: msullivanpt@olatheschools.org
+  position: 913-780-7270
+
+- name: meadow lane elementary
+  location: bnstuart@olatheschools.org
+  position: 913-780-7510
+
+- name: bentwood elementary
+  location: ptaylorfv@olatheschools.org
+  position: 913-780-7430
+
+- name: ravenwood elementary
+  location: tterronesbw@olatheschools.org
+  position: 913-780-7330
+
+- name: tomahawk elementary
+  location: pswensonhn@olatheschools.org
+  position: 913-780-7480
+
+- name: claire learning center program
+  location: memispagelsb@olatheschools.org
+  position: 913-780-7000
+
+- name: lone elm support center
+  location: kjroberts@olatheschools.org
+  position: 913-780-7200
+
+- name: hs assistant wrestling
+  location: 913-780-7670
+  position: scarborough elementary
+
+- name: asst dir of technology
+  location: 913-780-7011
+  position: operations service center
+
+- name: manager planning
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: para 1 resource
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: instructional aide ell
+  location: 913-780-7670
+  position: scarborough elementary
+
+- name: ell teacher
+  location: 913-780-7280
+  position: prairie trail middle school
+
+- name: grade 1 teacher
+  location: 913-780-7540
+  position: manchester park elementary
+
+- name: school psychologist
+  location: 913-780-7690
+  position: tomahawk elementary
+
+- name: math
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: center-based resource
+  location: 913-780-7670
+  position: scarborough elementary
+
+- name: family and consumer sci
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: general secretary 3
+  location: 913-780-7250
+  position: oregon trail middle school
+
+- name: english
+  location: 913-780-7014
+  position: prairie learning center
+
+- name: para 3 emotional disturbance
+  location: 913-780-7490
+  position: heritage elementary
+
+- name: network technician 1
+  location: 913-780-7250
+  position: oregon trail middle school
+
+- name: maint grounds
+  location: 913-780-7570
+  position: northview elementary
+
+- name: science
+  location: 913-780-7360
+  position: cedar creek elementary
+
+- name: head start secretary
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: early childhood disabilities
+  location: 913-780-7680
+  position: sunnyside elementary
+
+- name: grade 2 teacher
+  location: district wide
+  position: hs assistant bowling
+
+- name: title i reading
+  location: 913-780-7000
+  position: education center
+
+- name: speech lang path
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: business/computers
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: physical education
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: data operator 1
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: director operations
+  location: 913-780-7380
+  position: clearwater creek elementary
+
+- name: art
+  location: 913-780-7880
+  position: mill creek campus
+
+- name: kindergarten teacher
+  location: 913-780-7630
+  position: ridgeview elementary
+
+- name: instrumental music band
+  location: 913-780-7380
+  position: clearwater creek elementary
+
+- name: grade 3 teacher
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: recruiter
+  location: 913-780-7710
+  position: walnut grove elementary
+
+- name: food serv manager
+  location: 913-780-7017
+  position: claire learning center program
+
+- name: social science
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: computer learning associate
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: para 4 behavior instr asst
+  location: 913-780-7230
+  position: indian trail middle school
+
+- name: para 3 ec autism
+  location: 913-780-7320
+  position: bentwood elementary
+
+- name: avid/aim tutor
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: grade 5 teacher
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: general school aide
+  location: 913-780-7610
+  position: prairie center elementary
+
+- name: library clerk secondary
+  location: 913-780-7290
+  position: santa fe trail middle school
+
+- name: para 3 autism
+  location: 913-780-7770
+  position: woodland elementary
+
+- name: asst superintendent
+  location: 913-780-7360
+  position: cedar creek elementary
+
+- name: custodial 1
+  location: 913-780-7490
+  position: heritage elementary
+
+- name: custodial 1 lead
+  location: 913-780-7570
+  position: northview elementary
+
+- name: bookkeeper 2
+  location: 913-780-7000
+  position: district wide
+
+- name: principal assistant
+  location: 913-780-7450
+  position: green springs elementary
+
+- name: counselor
+  location: 913-780-7230
+  position: indian trail middle school
+
+- name: therapeutic program
+  location: 913-780-7650
+  position: rolling ridge elementary
+
+- name: instructional aide fdk
+  location: 913-780-7510
+  position: indian creek elementary
+
+- name: parents as teachers
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: food services production floor
+  location: 913-780-7280
+  position: prairie trail middle school
+
+- name: library media specialist
+  location: 913-780-7011
+  position: operations service center
+
+- name: food services warehouse 12 mo
+  location: 913-780-7250
+  position: oregon trail middle school
+
+- name: general music
+  location: 913-780-7480
+  position: heatherstone elementary
+
+- name: asst director information sys
+  location: 913-780-7005
+  position: food production center
+
+- name: food services catering
+  location: 913-780-7005
+  position: food production center
+
+- name: grade 4 teacher
+  location: 913-780-7730
+  position: washington elementary
+
+- name: sr payroll specialist
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: helpdesk support technician
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: resource room
+  location: 913-780-7370
+  position: central elementary
+
+- name: library clerk elementary
+  location: 913-780-7230
+  position: indian trail middle school
+
+- name: industrial tech
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: auto technician
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: para 3 assistive technology
+  location: 913-780-7000
+  position: education center
+
+- name: accountant
+  location: 913-780-7230
+  position: indian trail middle school
+
+- name: instructional coach -elem
+  location: 913-780-7270
+  position: pioneer trail middle school
+
+- name: staffing representative
+  location: 913-780-7610
+  position: prairie center elementary
+
+- name: autism
+  location: 913-780-7880
+  position: mill creek campus
+
+- name: accompanist
+  location: 913-780-7020
+  position: technology support center
+
+- name: senior wireless engineer
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: instrumental music orch
+  location: 913-780-7530
+  position: mahaffie elementary
+
+- name: nurse
+  location: 913-780-7880
+  position: mill creek campus
+
+- name: pbis coach
+  location: 913-780-7200
+  position: summit trail middle school
+
+- name: social worker
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: specialist copy
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: health careers
+  location: 913-780-7880
+  position: mill creek campus
+
+- name: substitute teacher
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: emotional disturbance
+  location: 913-780-7026
+  position: olathe adv technical center
+
+- name: gifted
+  location: 913-780-7014
+  position: prairie learning center
+
+- name: its makerspace
+  location: 913-780-7370
+  position: central elementary
+
+- name: administrative secretary 6 pr
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: administrative secretary 2
+  location: 913-780-7530
+  position: mahaffie elementary
+
+- name: facilitr diversity engagemnt
+  location: 913-780-7210
+  position: frontier trail middle school
+
+- name: vocal music
+  location: 913-780-7005
+  position: food production center
+
+- name: principal
+  location: 913-780-7210
+  position: frontier trail middle school
+
+- name: para 3 job coach
+  location: 913-780-7390
+  position: countryside elementary
+
+- name: amer sign lang interp
+  location: 913-780-7006
+  position: instructional resource center
+
+- name: itinerant teacher sub
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: director of risk management
+  location: 913-780-7000
+  position: education center
+
+- name: exec asst 1 accounting spec
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: speech/drama
+  location: 913-780-7000
+  position: education center
+
+- name: maint hvac
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: asst dir early childhood
+  location: 913-780-7230
+  position: indian trail middle school
+
+- name: reading
+  location: 913-780-7440
+  position: forest view elementary
+
+- name: autism specialist 1
+  location: 913-780-7440
+  position: forest view elementary
+
+- name: coord elementary
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: wellness advocate
+  location: 913-780-7450
+  position: green springs elementary
+
+- name: instructional aide jump start
+  location: 913-780-7440
+  position: forest view elementary
+
+- name: alternative ed
+  location: 913-780-7011
+  position: operations service center
+
+- name: april hennager
+  location: central elementary
+  position: title i math
+
+- name: mackenzie henneous
+  location: indian creek elementary
+  position: grade 3 teacher
+
+- name: pamela henneous
+  location: oregon trail middle school
+  position: food services school staff
+
+- name: megan hennkens
+  location: california trail middle school
+  position: general secretary 3
+
+- name: rebecca henrikson
+  location: mill creek campus
+  position: social worker
+
+- name: erin henry
+  location: olathe east high school
+  position: science
+
+- name: amy henry
+  location: olathe north high school
+  position: family and consumer sci
+
+- name: brianna henshaw
+  location: olathe north high school
+  position: english
+
+- name: edward hensley
+  location: olathe adv technical center
+  position: auto technician
+
+- name: jackee hensley
+  location: prairie learning center
+  position: therapeutic program
+
+- name: veronica henson
+  location: education center
+  position: fmla and leaves specialist
+
+- name: mary henton
+  location: harmony early childhood cntr
+  position: para 3 ec autism
+
+- name: dorothy herbert
+  location: sunnyside elementary
+  position: library media specialist
+
+- name: amy hercules
+  location: sunnyside elementary
+  position: principal
+
+- name: stephanie herl
+  location: scarborough elementary
+  position: kindergarten teacher
+
+- name: renee herman
+  location: pioneer trail middle school
+  position: family and consumer sci
+
+- name: karmin herman
+  location: indian trail middle school
+  position: data operator 3
+
+- name: jason herman
+  location: olathe north high school
+  position: principal
+
+- name: denise herman
+  location: oregon trail middle school
+  position: principal assistant
+
+- name: kirsten herman
+  location: prairie trail middle school
+  position: physical education
+
+- name: janelle hermann
+  location: bentwood elementary
+  position: instructional aide fdk
+
+- name: ruperto hermosillo
+  location: olathe east high school
+  position: custodial 2
+
+- name: brandon hernandez
+  location: olathe northwest high school
+  position: math
+
+- name: janel hernandez
+  location: olathe east high school
+  position: general secretary 3
+
+- name: andrea hernandez
+  location: food production center
+  position: food services office staff
+
+- name: danny hernandez
+  location: food production center
+  position: food services warehouse 12 mo
+
+- name: ana hernandez de melende
+  location: olathe south high school
+  position: custodial 2
+
+- name: arismel hernandez ortega
+  location: canyon creek elementary
+  position: custodial 1 lead
+
+- name: marisel hernandez rodriguez
+  location: fairview elementary
+  position: custodial 2
+
+- name: rubi hernandez vara
+  location: bentwood elementary
+  position: custodial 1 lead
+
+- name: tracy herndon
+  location: technology support center
+  position: information systems analyst
+
+- name: morgan herrenbruck
+  location: hs assistant cheerleading
+  position: lucia herrera
+
+- name: lherrera@olatheschools.org
+  location: custodial 2
+  position: elizabeth herrick
+
+- name: eaherrick@olatheschools.org
+  location: resource room
+  position: christopher herrig
+
+- name: cherrigml@olatheschools.org
+  location: grade 1 teacher
+  position: tawnya herrington
+
+- name: tmherrington@olatheschools.org
+  location: wellness advocate
+  position: susan hershberger
+
+- name: slhershberger@olatheschools.org
+  location: head start teacher
+  position: lauranne hess
+
+- name: lhessgs@olatheschools.org
+  location: gifted
+  position: kathy hess
+
+- name: khesshlc@olatheschools.org
+  location: head start ersea coordinator
+  position: kristin hesser
+
+- name: khesserbr@olatheschools.org
+  location: grade 1 teacher
+  position: heidi hessler
+
+- name: hlhessler@olatheschools.org
+  location: secretarial assistant
+  position: lynda hetherington
+
+- name: lahetherington@olatheschools.org
+  location: food services sub
+  position: amy hey
+
+- name: achey@olatheschools.org
+  location: math
+  position: anne heying
+
+- name: aheying@olatheschools.org
+  location: para 3 center-based resource
+  position: kimberly heyse
+
+- name: kdheyse@olatheschools.org
+  location: para 2 early childhood disabil
+  position: scott hiatt
+
+- name: swhiatt@olatheschools.org
+  location: para 1 resource
+  position: dorothy hiatt
+
+- name: dbhiatt@olatheschools.org
+  location: osd pat program manager
+  position: krystal hickel
+
+- name: khickelgs@olatheschools.org
+  location: grade 2 teacher
+  position: courtney hickman
+
+- name: cdhickman@olatheschools.org
+  location: principal
+  position: darianne hicks
+
+- name: dphicks@olatheschools.org
+  location: counselor
+  position: taylor higbee
+
+- name: tbhigbee@olatheschools.org
+  location: english
+  position: sierra higginbotham
+
+- name: shigginbotham@olatheschools.org
+  location: head start family advocate
+  position: pamela higgins
+
+- name: pshigginssb@olatheschools.org
+  location: temp para sub
+  position: sheryl higgins
+
+- name: shigginsec@olatheschools.org
+  location: finance systems trainer
+  position: ian higgs
+
+- name: ikhiggs@olatheschools.org
+  location: auto collision
+  position: karen high
+
+- name: kkhigh@olatheschools.org
+  location: avid/aim tutor
+  position: bailey hightower
+
+- name: bnhightower@olatheschools.org
+  location: english
+  position: kelly hilgenkamp
+
+- name: kchilgenkamp@olatheschools.org
+  location: physical education
+  position: jordyn hilgers
+
+- name: jehilgers@olatheschools.org
+  location: social science
+  position: amy hill
+
+- name: ahilloe@olatheschools.org
+  location: center-based resource
+  position: precious hill
+
+- name: pphill@olatheschools.org
+  location: custodial 2
+  position: ashley hill
+
+- name: alhill@olatheschools.org
+  location: para 3 center-based resource
+  position: deborah hill
+
+- name: dahill@olatheschools.org
+  location: vocal music
+  position: jodi hill
+
+- name: jlhill@olatheschools.org
+  location: secretarial assistant
+  position: tyler hill
+
+- name: tdhill@olatheschools.org
+  location: av hardware repair tech 1
+  position: raegen hill
+
+- name: rhillcw@olatheschools.org
+  location: grade 2 teacher
+  position: michele hill
+
+- name: mbhill@olatheschools.org
+  location: social science
+  position: emily hilley
+
+- name: enhilley@olatheschools.org
+  location: instructional aide fdk
+  position: kathi hilliard
+
+- name: khilliardonw@olatheschools.org
+  location: principal assistant
+  position: tyrone hillman
+
+- name: thillmanwdsc@olatheschools.org
+  location: maint plumber
+  position: trent hillman
+
+- name: tbhillmanwdsc@olatheschools.org
+  location: maint grounds
+  position: amy hillman
+
+- name: ahillmansf@olatheschools.org
+  location: science
+  position: kimberly hillstock
+
+- name: kdhillstock@olatheschools.org
+  location: english
+  position: gertrude hinderliter
+
+- name: glhinderliter@olatheschools.org
+  location: administrative secretary 2
+  position: richard hinderliter
+
+- name: rhinderlitermt@olatheschools.org
+  location: industrial tech
+  position: dana hinds
+
+- name: dahinds@olatheschools.org
+  location: principal
+  position: katey hinds
+
+- name: kehinds@olatheschools.org
+  location: grade 5 teacher
+  position: cassidy hink
+
+- name: crhink@olatheschools.org
+  location: grade 1 teacher
+  position: rose hinkle
+
+- name: rhinklewdsc@olatheschools.org
+  location: facility usage specialist
+  position: meghan hinkley
+
+- name: mhinkleyss@olatheschools.org
+  location: grade 4 teacher
+  position: tracy hinman
+
+- name: tjhinman@olatheschools.org
+  location: executive assistant 1
+  position: christine hipsher
+
+- name: chipsherhlc@olatheschools.org
+  location: early childhood disabilities
+  position: lisa hirsch
+
+- name: lhirschonw@olatheschools.org
+  location: art
+  position: nancy hirsch
+
+- name: nchirsch@olatheschools.org
+  location: para 2 early childhood disabil
+  position: kylie hirth
+
+- name: knhirth@olatheschools.org
+  location: recruiter tech and support
+  position: lori hirtz
+
+- name: lshirtz@olatheschools.org
+  location: family and consumer sci
+  position: dylan hitchcock
+
+- name: dhitchcockon@olatheschools.org
+  location: social science
+  position: kari hitchcock
+
+- name: klhitchcock@olatheschools.org
+  location: math
+  position: sheila hite
+
+- name: skhite@olatheschools.org
+  location: para 1 resource
+  position: deonne hobson
+
+- name: dhobsoncst@olatheschools.org
+  location: gifted
+  position: deanne hockett
+
+- name: dmhockett@olatheschools.org
+  location: resource room
+  position: ryan hodges
+
+- name: rjhodges@olatheschools.org
+  location: instructional aide ell
+  position: blake hodges
+
+- name: brhodges@olatheschools.org
+  location: emotional disturbance
+  position: joseph hodnik
+
+- name: jhodnikoe@olatheschools.org
+  location: social science
+  position: rosa hoehn
+
+- name: rhoehn@olatheschools.org
+  location: custodial 1 lead
+  position: kimberly hoeven
+
+- name: khoevencst@olatheschools.org
+  location: english
+  position: sally hoeven
+
+- name: sahoeven@olatheschools.org
+  location: family and consumer sci
+  position: sonia hoffey
+
+- name: shoffeymt@olatheschools.org
+  location: general secretary 3
+  position: courtney hoffhines
+
+- name: choffhinesic@olatheschools.org
+  location: kindergarten teacher
+  position: carrie hoffman
+
+- name: choffmanac@olatheschools.org
+  location: grade 5 teacher
+  position: sara hoffman
+
+- name: sbhoffman@olatheschools.org
+  location: grade 4 teacher
+  position: chad hoffman
+
+- name: crhoffman@olatheschools.org
+  location: counselor
+  position: sierra hoffman
+
+- name: skhoffman@olatheschools.org
+  location: para 3 autism
+  position: nicole hoffman
+
+- name: nhoffmanos@olatheschools.org
+  location: science
+  position: rachel hoffman
+
+- name: rlhoffman@olatheschools.org
+  location: math
+  position: anthony hoffman
+
+- name: adhoffman@olatheschools.org
+  location: asst dir network infrastructur
+  position: amy hoffsommer-griffin
+
+- name: aahoffsommergriffin@olatheschools.org
+  location: physical education
+  position: nicholas hofmeier
+
+- name: nahofmeier@olatheschools.org
+  location: resource room
+  position: elizabeth hoglund
+
+- name: eahoglund@olatheschools.org
+  location: secretarial assistant
+  position: kimberly hoglund
+
+- name: kjhoglund@olatheschools.org
+  location: french
+  position: lori hoisington
+
+- name: lahoisington@olatheschools.org
+  location: grade 1 teacher
+  position: richard hoisington
+
+- name: rehoisington@olatheschools.org
+  location: science
+  position: lisa holcomb
+
+- name: lholcombmd@olatheschools.org
+  location: secretarial assistant
+  position: nanette holda
+
+- name: npholda@olatheschools.org
+  location: grade 5 teacher
+  position: melinda hollan
+
+- name: mhollanoe@olatheschools.org
+  location: math
+  position: eric holland
+
+- name: ehollandic@olatheschools.org
+  location: physical education
+  position: elizabeth holland
+
+- name: esholland@olatheschools.org
+  location: principal
+  position: ann hollis
+
+- name: amhollis@olatheschools.org
+  location: early childhood disabilities
+  position: britt hollister
+
+- name: bhollisteroe@olatheschools.org
+  location: general secretary 3
+  position: ethan holloway
+
+- name: ewholloway@olatheschools.org
+  location: custodial 2
+  position: jason hollowed
+
+- name: jmhollowed@olatheschools.org
+  location: instrumental music orch
+  position: kristine holly
+
+- name: klholly@olatheschools.org
+  location: para 3 center-based resource
+  position: aaron holmes
+
+- name: agholmes@olatheschools.org
+  location: mental health professionals
+  position: sarah holmes
+
+- name: seholmes@olatheschools.org
+  location: grade 1 teacher
+  position: phillip holmes
+
+- name: pholmespt@olatheschools.org
+  location: instrumental music band
+  position: traci holsinger
+
+- name: tholsingerhlc@olatheschools.org
+  location: head start float teacher
+  position: mandi holsten
+
+- name: mrholsten@olatheschools.org
+  location: animal science
+  position: charlene holtgraver
+
+- name: choltgraversc@olatheschools.org
+  location: grade 5 teacher
+  position: angela holtgraves
+
+- name: alholtgraves@olatheschools.org
+  location: resource room
+  position: jan holthus
+
+- name: jcholthus@olatheschools.org
+  location: substitute teacher
+  position: brian holthus
+
+- name: bholthusonw@olatheschools.org
+  location: social science
+  position: lisa holton
+
+- name: llholton@olatheschools.org
+  location: art
+  position: jill holzinger
+
+- name: jholzingerct@olatheschools.org
+  location: secretarial assistant
+  position: colene homa
+
+- name: cahoma@olatheschools.org
+  location: para 3 center-based resource
+  position: amanda honaker
+
+- name: arhonaker@olatheschools.org
+  location: coord career transition
+  position: jasmine honeycutt
+
+- name: jshoneycutt@olatheschools.org
+  location: para 1 resource
+  position: rachel hontz
+
+- name: rlhontz@olatheschools.org
+  location: para 3 center-based resource
+  position: heidi hood
+
+- name: hehood@olatheschools.org
+  location: para 4 autism instruction asst
+  position: karen hooven
+
+- name: klhooven@olatheschools.org
+  location: library clerk elementary
+  position: coleen hoover
+
+- name: cehoover@olatheschools.org
+  location: alternative education aide ii
+  position: aaron hopes-pflumm
+
+- name: ahopespflumm@olatheschools.org
+  location: para 3 job coach
+  position: jennifer hopfinger
+
+- name: jhopfingerml@olatheschools.org
+  location: grade 2 teacher
+  position: pamela hopkins
+
+- name: plhopkins@olatheschools.org
+  location: general secretary 3
+  position: andy hopkins
+
+- name: aahopkins@olatheschools.org
+  location: food services school staff
+  position: julie hopkins
+
+- name: jahopkins@olatheschools.org
+  location: para 3 center-based resource
+  position: lujuana hopson
+
+- name: lmhopson@olatheschools.org
+  location: business/computers
+  position: catalina hopson
+
+- name: cghopson@olatheschools.org
+  location: para 1 resource
+  position: kathryn horner
+
+- name: kahorner@olatheschools.org
+  location: math
+  position: sarah hoshor
+
+- name: shoshorirc@olatheschools.org
+  location: special services
+  position: christie hoskins
+
+- name: choskinsirc@olatheschools.org
+  location: administrative secretary 2
+  position: rita hosley
+
+- name: rjhosley@olatheschools.org
+  location: para 3 center-based resource
+  position: sherri houfek
+
+- name: skhoufek@olatheschools.org
+  location: reading
+  position: beth hought
+
+- name: bhoughtth@olatheschools.org
+  location: nurse
+  position: jacquelyn houghton
+
+- name: jphoughton@olatheschools.org
+  location: transition specialist
+  position: brittany hougland
+
+- name: bhouglandmb@olatheschools.org
+  location: grade 5 teacher
+  position: tabbatha householder
+
+- name: thouseholderbw@olatheschools.org
+  location: art
+  position: brenda houston
+
+- name: blhouston@olatheschools.org
+  location: food services school staff
+  position: myranda hoversten
+
+- name: mbhoverstensb@olatheschools.org
+  location: hs assistant cheerleading
+  position: catherine hovey
+
+- name: cmhovey@olatheschools.org
+  location: general secretary 2
+  position: melinda howard
+
+- name: mdhoward@olatheschools.org
+  location: grade 4 teacher
+  position: elisha howard
+
+- name: emhoward@olatheschools.org
+  location: instructional aide fdk
+  position: reed howard
+
+- name: rhowardos@olatheschools.org
+  location: science
+  position: megan howard
+
+- name: mhowardcw@olatheschools.org
+  location: grade 2 teacher
+  position: sandy howard
+
+- name: smhoward@olatheschools.org
+  location: para 2 early childhood disabil
+  position: cara howard
+
+- name: choward@olatheschools.org
+  location: instructional aide ell
+  position: rebecca howard
+
+- name: bhowardft@olatheschools.org
+  location: speech lang path
+  position: rita howe
+
+- name: rhowerp@olatheschools.org
+  location: kindergarten teacher
+  position: justin howe
+
+- name: jphowe@olatheschools.org
+  location: principal
+  position: jenna howe
+
+- name: jchowe@olatheschools.org
+  location: art
+  position: kristin howell
+
+- name: khowellic@olatheschools.org
+  location: grade 1 teacher
+  position: kirstin howell
+
+- name: temp misc
+  location: 913-780-7260
+  position: mission trail middle school
+
+- name: administrative secretary 2 prb
+  location: 913-780-7400
+  position: canyon creek elementary
+
+- name: asst dir fsv general admin
+  location: 913-780-7520
+  position: madison place elementary
+
+- name: cert occupational therap asst
+  location: 913-780-7670
+  position: scarborough elementary
+
+- name: specialist accounts payable
+  location: 913-780-7006
+  position: instructional resource center
+
+- name: market value asset data assist
+  location: 913-780-7520
+  position: madison place elementary
+
+- name: french
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: food services sub
+  location: 913-780-7560
+  position: millbrooke elementary
+
+- name: occupational therapist
+  location: 913-780-7290
+  position: santa fe trail middle school
+
+- name: head start cons disc mentor co
+  location: 913-780-7014
+  position: prairie learning center
+
+- name: para 4 autism instruction asst
+  location: 913-780-7150
+  position: olathe northwest high school
+
+- name: title i math
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: information technology trainer
+  location: 913-780-7430
+  position: fairview elementary
+
+- name: manager communications
+  location: 913-780-8029
+  position: west dennis learning center
+
+- name: couns liaison family/student
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: network security analyst
+  location: 913-764-7411
+  position: juvenile detention center
+
+- name: therapist music
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: behavior coach
+  location: 913-780-7880
+  position: mill creek campus
+
+- name: director of safety services
+  location: 913-780-7750
+  position: westview elementary
+
+- name: head start teacher assoc
+  location: 913-780-7310
+  position: black bob elementary
+
+- name: maint carpenter
+  location: 913-780-7005
+  position: food production center
+
+- name: director food services
+  location: 913-780-7880
+  position: mill creek campus
+
+- name: food services warehouse pack
+  location: 913-780-7450
+  position: green springs elementary
+
+- name: special services
+  location: 913-780-7520
+  position: madison place elementary
+
+- name: instructional aide
+  location: district wide
+  position: hs assistant wrestling
+
+- name: administrative secretary 2 pr
+  location: 913-780-7520
+  position: madison place elementary
+
+- name: exec director communications
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: administrative secretary 3
+  location: 913-780-7650
+  position: rolling ridge elementary
+
+- name: general secretary 4
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: spanish
+  location: 913-780-7006
+  position: instructional resource center
+
+- name: general secretary 2
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: asst dir professional developm
+  location: 913-780-7330
+  position: briarwood elementary
+
+- name: food serv asst manager
+  location: 913-780-7390
+  position: countryside elementary
+
+- name: coord secondary
+  location: 913-780-7006
+  position: instructional resource center
+
+- name: teacher alternative ed
+  location: 913-780-7200
+  position: summit trail middle school
+
+- name: sign language
+  location: 913-780-7300
+  position: arbor creek elementary
+
+- name: specialist language management
+  location: 913-780-7280
+  position: prairie trail middle school
+
+- name: fs training & development spec
+  location: 913-780-7140
+  position: olathe north high school
+
+- name: e communications
+  location: 913-780-7250
+  position: oregon trail middle school
+
+- name: secretary health room asst
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: senior apple engineer
+  location: 913-780-7290
+  position: santa fe trail middle school
+
+- name: para 3 visual
+  location: 913-780-7770
+  position: woodland elementary
+
+- name: margarita leanos
+  location: olathe south high school
+  position: custodial 2 lead
+
+- name: staci leatherland
+  location: instructional resource center
+  position: database support
+
+- name: melissa lechtenberger
+  location: mission trail middle school
+  position: english
+
+- name: amanda lecus
+  location: clearwater creek elementary
+  position: general school aide
+
+- name: rebecca lecuyer
+  location: washington elementary
+  position: speech lang path
+
+- name: scott ledbetter
+  location: olathe west high school
+  position: art
+
+- name: katherine ledbetter
+  location: olathe north high school
+  position: art
+
+- name: kelly ledesma
+  location: santa fe trail middle school
+  position: ell teacher
+
+- name: lisa ledgerwood
+  location: clearwater creek elementary
+  position: grade 1 teacher
+
+- name: julie lee
+  location: heartland early childhood cntr
+  position: school psychologist
+
+- name: jone lee
+  location: pioneer trail middle school
+  position: counselor
+
+- name: morgan lee
+  location: chisholm trail middle school
+  position: speech/drama
+
+- name: ashley lee
+  location: millbrooke elementary
+  position: kindergarten teacher
+
+- name: shannon leeds
+  location: harmony early childhood cntr
+  position: administrative secretary 3 pr
+
+- name: ashley leeper
+  location: central elementary
+  position: grade 2 teacher
+
+- name: patricia lefler
+  location: technology support center
+  position: helpdesk interpreter
+
+- name: sarah legg
+  location: mahaffie elementary
+  position: general school aide
+
+- name: brandi leggett
+  location: central elementary
+  position: principal
+
+- name: danielle legrand
+  location: olathe south high school
+  position: counselor
+
+- name: shelby leiker
+  location: mission trail middle school
+  position: family and consumer sci
+
+- name: christy lemanske
+  location: olathe northwest high school
+  position: reading
+
+- name: jeff lemanske
+  location: operations service center
+  position: custodial 1
+
+- name: tyler lemke
+  location: olathe south high school
+  position: social science
+
+- name: kalli lempka
+  location: woodland elementary
+  position: art
+
+- name: elvira lemus
+  location: frontier trail middle school
+  position: custodial 2
+
+- name: marie lengquist
+  location: food production center
+  position: food services support b&f asst
+
+- name: catherine lentz
+  location: rolling ridge elementary
+  position: early childhood disabilities
+
+- name: patrick lenz
+  location: olathe east high school
+  position: social science
+
+- name: jennifer lenz
+  location: olathe south high school
+  position: english
+
+- name: kathryn leo
+  location: indian trail middle school
+  position: library media specialist
+
+- name: giovanna leon
+  location: cedar creek elementary
+  position: para 3 center-based resource
+
+- name: jennifer leon garcia
+  location: olathe south high school
+  position: custodial 2
+
+- name: philip leonard
+  location: hs assistant technical
+  position: marie leonhart
+
+- name: mleonhartfpc@olatheschools.org
+  location: food services prod manager
+  position: kimberly lepping
+
+- name: kleppingss@olatheschools.org
+  location: administrative secretary 6 pr
+  position: cavin lesher
+
+- name: calesher@olatheschools.org
+  location: general music
+  position: kristen lester
+
+- name: klester@olatheschools.org
+  location: instructional tech teacher
+  position: mallori lethem
+
+- name: mjlethem@olatheschools.org
+  location: counselor
+  position: amelia levin
+
+- name: aelevin@olatheschools.org
+  location: instructional aide ell
+  position: jennifer lewis
+
+- name: jalewis@olatheschools.org
+  location: secretarial assistant
+  position: alyson lewis
+
+- name: amlewis@olatheschools.org
+  location: para 2 early childhood disabil
+  position: kathleen lewis
+
+- name: kalewis@olatheschools.org
+  location: grade 5 teacher
+  position: donovan lewis
+
+- name: djlewis@olatheschools.org
+  location: custodial 2
+  position: craig lewis
+
+- name: clewisos@olatheschools.org
+  location: physical education
+  position: jennifer lewis
+
+- name: arlewis@olatheschools.org
+  location: transition specialist
+  position: cory lewis
+
+- name: cblewis@olatheschools.org
+  location: science
+  position: blair lewis
+
+- name: bmlewis@olatheschools.org
+  location: math
+  position: shelby lewis
+
+- name: stlewis@olatheschools.org
+  location: general music
+  position: amber lewis
+
+- name: amrlewis@olatheschools.org
+  location: para 3 ec autism
+  position: jill lewis
+
+- name: jdlewis@olatheschools.org
+  location: math
+  position: catherine lewis
+
+- name: clewison@olatheschools.org
+  location: english
+  position: james libal
+
+- name: jjlibal@olatheschools.org
+  location: principal
+  position: stephen libick
+
+- name: selibick@olatheschools.org
+  location: therapeutic program
+  position: john lieburn
+
+- name: jwlieburn@olatheschools.org
+  location: science
+  position: mykiala lien
+
+- name: mclien@olatheschools.org
+  location: resource room
+  position: michelle lierz
+
+- name: lierzs@olatheschools.org
+  location: instructional coach -elem
+  position: bryson lightle
+
+- name: bglightle@olatheschools.org
+  location: art
+  position: megan lillis
+
+- name: mklillis@olatheschools.org
+  location: para 3 visual
+  position: thomas lillis
+
+- name: lillis@olatheschools.org
+  location: director special projects
+  position: lee shun lim
+
+- name: llim@olatheschools.org
+  location: food services school staff
+  position: lazlo lind
+
+- name: lalind@olatheschools.org
+  location: specialist copy
+  position: jason lindley
+
+- name: jlindley@olatheschools.org
+  location: maint plumber
+  position: amie lindshield
+
+- name: amlindshield@olatheschools.org
+  location: grade 1 teacher
+  position: halie linduff
+
+- name: hslinduff@olatheschools.org
+  location: grade 3 teacher
+  position: amanda linhardt
+
+- name: anlinhardt@olatheschools.org
+  location: secretarial assistant
+  position: terry link
+
+- name: tlinkon@olatheschools.org
+  location: math
+  position: scott linn
+
+- name: slinnrp@olatheschools.org
+  location: grade 1 teacher
+  position: patricia lintz
+
+- name: pjlintz@olatheschools.org
+  location: grade 5 teacher
+  position: amy linville
+
+- name: adlinville@olatheschools.org
+  location: para 3 job coach
+  position: cherry lipp
+
+- name: cllipp@olatheschools.org
+  location: para 3 center-based resource
+  position: heather little
+
+- name: hlittleml@olatheschools.org
+  location: library clerk elementary
+  position: karen little
+
+- name: kmlittle@olatheschools.org
+  location: amer sign lang interp
+  position: chamadari liyanage
+
+- name: chliyanage@olatheschools.org
+  location: para 3 center-based resource
+  position: amanda lloyd
+
+- name: adlloyd@olatheschools.org
+  location: secretarial assistant
+  position: emma lockard
+
+- name: eelockard@olatheschools.org
+  location: english
+  position: erica locke
+
+- name: edlocke@olatheschools.org
+  location: para 1 resource
+  position: amy lockman
+
+- name: amlockman@olatheschools.org
+  location: gifted
+  position: dina lockwood
+
+- name: dlockwoodplc@olatheschools.org
+  location: nurse
+  position: heather lockwood
+
+- name: hmlockwood@olatheschools.org
+  location: para 3 center-based resource
+  position: mary loecker
+
+- name: mkloecker@olatheschools.org
+  location: english
+  position: katharine loepp
+
+- name: kmloepp@olatheschools.org
+  location: gifted
+  position: maria loera ortiz
+
+- name: mgloeraortiz@olatheschools.org
+  location: custodial 2
+  position: melissa loerke
+
+- name: mloerkema@olatheschools.org
+  location: physical therapist
+  position: kristi loftus
+
+- name: klloftus@olatheschools.org
+  location: behavior coach
+  position: amanda logan
+
+- name: aslogan@olatheschools.org
+  location: para 3 center-based resource
+  position: madeline long
+
+- name: malong@olatheschools.org
+  location: grade 1 teacher
+  position: patricia long
+
+- name: plongos@olatheschools.org
+  location: art
+  position: dale longenecker
+
+- name: dmlongenecker@olatheschools.org
+  location: principal
+  position: belinda longmire
+
+- name: bllongmire@olatheschools.org
+  location: food services warehouse pack
+  position: michelle longstreth
+
+- name: mlongstrethec@olatheschools.org
+  location: staffing support manager
+  position: hailie loomis
+
+- name: hsloomis@olatheschools.org
+  location: general secretary 2
+  position: patricia lopez
+
+- name: plopezfpc@olatheschools.org
+  location: food services school staff
+  position: magdalena lopez
+
+- name: malopez@olatheschools.org
+  location: custodial 1 lead
+  position: james lopez
+
+- name: jlopezac@olatheschools.org
+  location: custodial 1 lead
+  position: nina lopez
+
+- name: nnlopez@olatheschools.org
+  location: speech/drama
+  position: jeicel lopez barber
+
+- name: jylopezbarber@olatheschools.org
+  location: custodial 2
+  position: lizet lopez murgo
+
+- name: lalopezmurgo@olatheschools.org
+  location: head start teacher assoc
+  position: nery lopez suarez
+
+- name: nglopezsuarez@olatheschools.org
+  location: secretarial assistant
+  position: victoria losito
+
+- name: vllosito@olatheschools.org
+  location: para 3 center-based resource
+  position: myra love
+
+- name: mjlove@olatheschools.org
+  location: autism
+  position: susie love
+
+- name: salove@olatheschools.org
+  location: food services school staff
+  position: deann lovell
+
+- name: dlovellcc@olatheschools.org
+  location: resource room
+  position: mallory lovell
+
+- name: melovell@olatheschools.org
+  location: math
+  position: chancy lovell
+
+- name: cglovell@olatheschools.org
+  location: custodial 1
+  position: brian lowe
+
+- name: bloweml@olatheschools.org
+  location: principal
+  position: heather lowe
+
+- name: hlowema@olatheschools.org
+  location: grade 5 teacher
+  position: megan lowe
+
+- name: mllowe@olatheschools.org
+  location: physical education
+  position: carol lowman
+
+- name: cdlowman@olatheschools.org
+  location: instrumental music band
+  position: tiffany lowry
+
+- name: trlowry@olatheschools.org
+  location: counselor
+  position: cathy loyd
+
+- name: cloydct@olatheschools.org
+  location: math
+  position: randy luangamath
+
+- name: rluangamathft@olatheschools.org
+  location: math
+  position: christopher lucas
+
+- name: crlucas@olatheschools.org
+  location: principal
+  position: taylor lucas
+
+- name: tjlucas@olatheschools.org
+  location: resource room
+  position: elisabeth lucero
+
+- name: elucerowdsc@olatheschools.org
+  location: general secretary 1
+  position: terry luck
+
+- name: tlluck@olatheschools.org
+  location: amer sign lang interp
+  position: skylar lucke
+
+- name: smlucke@olatheschools.org
+  location: resource room
+  position: brenda ludlow
+
+- name: bludlowmt@olatheschools.org
+  location: gifted
+  position: lori ludwig
+
+- name: lludwigoe@olatheschools.org
+  location: art
+  position: derek luke
+
+- name: deluke@olatheschools.org
+  location: science
+  position: lisa lukinac
+
+- name: lrlukinac@olatheschools.org
+  location: para 3 ec autism
+  position: barbara luna
+
+- name: blluna@olatheschools.org
+  location: para 3 center-based resource
+  position: renee lunbeck
+
+- name: ralunbeck@olatheschools.org
+  location: para 3 center-based resource
+  position: charles lunney
+
+- name: clunneyonw@olatheschools.org
+  location: science
+  position: melissa lunney
+
+- name: mblunney@olatheschools.org
+  location: social science
+  position: jill luse
+
+- name: jtluse@olatheschools.org
+  location: hds comm dev spec data op
+  position: brittany luton
+
+- name: blluton@olatheschools.org
+  location: physical education
+  position: jeffrey lutt
+
+- name: jluttit@olatheschools.org
+  location: resource room
+  position: jami lutt
+
+- name: jjlutt@olatheschools.org
+  location: english
+  position: lori luttenegger
+
+- name: llutteneggeron@olatheschools.org
+  location: general secretary 3
+  position: karen luttrell
+
+- name: kjluttrell@olatheschools.org
+  location: para 3 center-based resource
+  position: phuong luu
+
+- name: ptluu@olatheschools.org
+  location: food services school staff
+  position: dianne lux
+
+- name: dmlux@olatheschools.org
+  location: para 3 center-based resource
+  position: danice lybarger
+
+- name: dmlybarger@olatheschools.org
+  location: grade 1 teacher
+  position: mary lyman
+
+- name: mllyman@olatheschools.org
+  location: specialist payroll
+  position: nicole lynch
+
+- name: olathe adv technical center
+  location: bjrexroth@olatheschools.org
+  position: 913-780-7200
+
+- name: adaptive pe
+  location: 913-780-7560
+  position: millbrooke elementary
+
+- name: data operator 4
+  location: 913-780-7200
+  position: summit trail middle school
+
+- name: stacy maxwell
+  location: indian creek elementary
+  position: para 3 center-based resource
+
+- name: roger maxwell
+  location: woodland elementary
+  position: para 3 autism
+
+- name: marcia may
+  location: walnut grove elementary
+  position: nurse
+
+- name: rebecca may
+  location: ravenwood elementary
+  position: speech lang path
+
+- name: marilyn mayberry
+  location: fairview elementary
+  position: para 3 center-based resource
+
+- name: jacqueline mayerske
+  location: regency place elementary
+  position: reading
+
+- name: emily mayes
+  location: mill creek campus
+  position: nurse
+
+- name: susan mayfield
+  location: olathe west high school
+  position: para 3 autism
+
+- name: katie mayfield
+  location: fairview elementary
+  position: grade 5 teacher
+
+- name: tina mayo
+  location: prairie trail middle school
+  position: secretarial assistant
+
+- name: rachel mayor
+  location: ridgeview elementary
+  position: grade 2 teacher
+
+- name: lorie mayoral
+  location: rolling ridge elementary
+  position: para 1 resource
+
+- name: rebecca mazmanian
+  location: indian creek elementary
+  position: instructional aide ell
+
+- name: jessica mcanany
+  location: head start program
+  position: head start teacher assoc
+
+- name: allison mcaninch
+  location: mahaffie elementary
+  position: grade 2 teacher
+
+- name: emily mcbee
+  location: forest view elementary
+  position: grade 5 teacher
+
+- name: anna mccabe
+  location: forest view elementary
+  position: grade 3 teacher
+
+- name: bryan mccall
+  location: olathe north high school
+  position: physical education
+
+- name: tammy mccalla
+  location: rolling ridge elementary
+  position: at risk
+
+- name: danica mccallister
+  location: central elementary
+  position: instructional aide ell
+
+- name: donald mccann
+  location: juvenile detention center
+  position: math
+
+- name: hannah mccartney
+  location: olathe east high school
+  position: english
+
+- name: walter mccartney
+  location: olathe north high school
+  position: physical education
+
+- name: sharon mccartney
+  location: prairie center elementary
+  position: computer learning associate
+
+- name: patrick mccarty
+  location: olathe north high school
+  position: instrumental music band
+
+- name: sun dee mccauley
+  location: ravenwood elementary
+  position: grade 3 teacher
+
+- name: julia mccauley
+  location: scarborough elementary
+  position: instructional aide
+
+- name: elizabeth mcclain
+  location: olathe south high school
+  position: math
+
+- name: ashley mcclaskey
+  location: madison place elementary
+  position: art
+
+- name: audra mcclelland
+  location: indian trail middle school
+  position: reading
+
+- name: thadeus mcclelland
+  location: oregon trail middle school
+  position: social science
+
+- name: mary mcclintock
+  location: prairie center elementary
+  position: para 3 center-based resource
+
+- name: mark mcclure
+  location: oregon trail middle school
+  position: math
+
+- name: jessica mccormick
+  location: indian creek elementary
+  position: food services school staff
+
+- name: michelle mccormick
+  location: meadow lane elementary
+  position: grade 3 teacher
+
+- name: chelsea mccormick
+  location: ravenwood elementary
+  position: grade 1 teacher
+
+- name: debra mccoy
+  location: mission trail middle school
+  position: food serv manager
+
+- name: amanda mccoy
+  location: walnut grove elementary
+  position: library media specialist
+
+- name: kellie mccubbins
+  location: meadow lane elementary
+  position: grade 3 teacher
+
+- name: lorna mccue
+  location: mahaffie elementary
+  position: computer learning associate
+
+- name: kristen mccullough
+  location: mission trail middle school
+  position: para 3 center-based resource
+
+- name: ashley mccullough
+  location: ms assistant dance
+  position: tiffany mccurdy
+
+- name: tmccurdy@olatheschools.org
+  location: para 3 emotional disturbance
+  position: christine mccurry
+
+- name: cmccurryss@olatheschools.org
+  location: general school aide
+  position: wendy mccutcheon
+
+- name: wkmccutcheon@olatheschools.org
+  location: para 2 early childhood disabil
+  position: ryan mcdaniel
+
+- name: rkmcdaniel@olatheschools.org
+  location: network technician 2
+  position: jon mcdaniel
+
+- name: jmcdanielot@olatheschools.org
+  location: science
+  position: jeanne mcdonald
+
+- name: jlmcdonald@olatheschools.org
+  location: grade 1 teacher
+  position: emily mcdonald
+
+- name: hs assistant technical
+  location: 913-780-7670
+  position: scarborough elementary
+
+- name: network technician 2
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: international language interp
+  location: 913-780-7450
+  position: green springs elementary
+
+- name: custodial 2 lead
+  location: 913-780-7210
+  position: frontier trail middle school
+
+- name: head start family advocate
+  location: 913-780-7770
+  position: woodland elementary
+
+- name: director health services
+  location: 913-780-7250
+  position: oregon trail middle school
+
+- name: para 3 deaf/hard of hearing
+  location: 913-780-7270
+  position: pioneer trail middle school
+
+- name: food services warehouse 9 mo
+  location: 913-780-7140
+  position: olathe north high school
+
+- name: facilitator career pathways
+  location: 913-780-7140
+  position: olathe north high school
+
+- name: av support technician level 2
+  location: 913-780-7390
+  position: countryside elementary
+
+- name: mailroom support
+  location: 913-780-7470
+  position: havencroft elementary
+
+- name: printing support
+  location: 913-780-7770
+  position: woodland elementary
+
+- name: maint electrician
+  location: 913-780-7417
+  position: head start program
+
+- name: head start educ coord
+  location: 913-780-7570
+  position: northview elementary
+
+- name: asst director of operations
+  location: 913-780-7240
+  position: chisholm trail middle school
+
+- name: james newport ii
+  location: olathe north high school
+  position: center-based resource
+
+- name: susan newson
+  location: harmony early childhood cntr
+  position: clerk 3a media
+
+- name: jonathan newton
+  location: pioneer trail middle school
+  position: para 3 emotional disturbance
+
+- name: laura newton
+  location: havencroft elementary
+  position: para 3 center-based resource
+
+- name: martin ngaruiya
+  location: food production center
+  position: food service truck driver 12mo
+
+- name: teresa nguyen
+  location: prairie learning center
+  position: therapeutic program
+
+- name: andrea nguyen
+  location: madison place elementary
+  position: grade 5 teacher
+
+- name: lauren niccum
+  location: manchester park elementary
+  position: grade 5 teacher
+
+- name: charla nichols
+  location: heatherstone elementary
+  position: occupational therapist
+
+- name: christen nickle
+  location: rolling ridge elementary
+  position: physical education
+
+- name: carli niebuhr
+  location: forest view elementary
+  position: grade 1 teacher
+
+- name: lisa niederwerder
+  location: heartland early childhood cntr
+  position: autism specialist 1
+
+- name: melissa nielsen
+  location: olathe east high school
+  position: science
+
+- name: amanda nielson
+  location: sunnyside elementary
+  position: food services school staff
+
+- name: christina nigh
+  location: education center
+  position: hr partner representative
+
+- name: randall nill
+  location: olathe west high school
+  position: business/computers
+
+- name: emily nine
+  location: mahaffie elementary
+  position: grade 4 teacher
+
+- name: kari nitschke
+  location: rolling ridge elementary
+  position: para 3 center-based resource
+
+- name: natalie nitz
+  location: pleasant ridge elementary
+  position: para 2 early childhood disabil
+
+- name: sarah noel
+  location: olathe south high school
+  position: food serv manager
+
+- name: cecily noel-mahan
+  location: olathe north high school
+  position: instrumental music orch
+
+- name: joel noelker
+  location: olathe south high school
+  position: para 3 job coach
+
+- name: emily nohr
+  location: indian trail middle school
+  position: instructional aide ell
+
+- name: karen nolan
+  location: olathe north high school
+  position: para 3 center-based resource
+
+- name: eva nolasco
+  location: tomahawk elementary
+  position: instructional aide ell
+
+- name: anna nondorf
+  location: olathe west high school
+  position: spanish
+
+- name: amy norcross-wareham
+  location: indian creek elementary
+  position: nurse
+
+- name: frances nordin
+  location: madison place elementary
+  position: para 3 center-based resource
+
+- name: paula nordstrom
+  location: oregon trail middle school
+  position: gifted
+
+- name: jamie norman
+  location: woodland elementary
+  position: para 2 early childhood disabil
+
+- name: katie norman
+  location: heartland early childhood cntr
+  position: autism specialist 1
+
+- name: gretchen norris
+  location: olathe south high school
+  position: center-based resource
+
+- name: bradley norris
+  location: fairview elementary
+  position: art
+
+- name: heather norris
+  location: regency place elementary
+  position: food services school staff
+
+- name: tessa north
+  location: countryside elementary
+  position: grade 4 teacher
+
+- name: nancy north
+  location: indian creek elementary
+  position: title i reading
+
+- name: erica north
+  location: black bob elementary
+  position: art
+
+- name: jennifer noteboom
+  location: olathe north high school
+  position: principal assistant
+
+- name: jason novacek
+  location: olathe west high school
+  position: principal
+
+- name: pamela noyce
+  location: olathe west high school
+  position: general secretary 3
+
+- name: connor nuessen
+  location: countryside elementary
+  position: secretarial assistant
+
+- name: april nuessen
+  location: forest view elementary
+  position: nurse
+
+- name: paige nuffer
+  location: olathe west high school
+  position: science
+
+- name: jose nunez
+  location: olathe east high school
+  position: custodial 2
+
+- name: ashley nunez
+  location: summit trail middle school
+  position: math
+
+- name: marien nunez
+  location: indian creek elementary
+  position: para 3 autism
+
+- name: maria nunez
+  location: olathe northwest high school
+  position: custodial 2
+
+- name: carol nycklemoe
+  location: olathe south high school
+  position: social science
+
+- name: blayne nye
+  location: santa fe trail middle school
+  position: therapeutic program
+
+- name: melisa nye
+  location: santa fe trail middle school
+  position: general secretary 3
+
+- name: aimee o boyle
+  location: manchester park elementary
+  position: computer learning associate
+
+- name: kiera o boyle
+  location: olathe northwest high school
+  position: family and consumer sci
+
+- name: julie o brien
+  location: olathe north high school
+  position: math
+
+- name: cindy o brien
+  location: olathe south high school
+  position: business/computers
+
+- name: dennis o connell
+  location: pioneer trail middle school
+  position: industrial tech
+
+- name: mary o connor
+  location: walnut grove elementary
+  position: instructional aide fdk
+
+- name: barbara o connor
+  location: olathe north high school
+  position: food services school staff
+
+- name: stefanie o dell
+  location: olathe northwest high school
+  position: para 1 resource
+
+- name: kyla o doherty
+  location: regency place elementary
+  position: grade 5 teacher
+
+- name: michael o donnell
+  location: technology support center
+  position: network technician 1
+
+- name: jennifer o gorman
+  location: olathe northwest high school
+  position: science
+
+- name: keeley o grady
+  location: olathe east high school
+  position: business/computers
+
+- name: monica o guin-valdivieso
+  location: prairie learning center
+  position: para 4 behavior instr asst
+
+- name: alyssa o neal
+  location: woodland elementary
+  position: grade 4 teacher
+
+- name: thomas o neill
+  location: olathe west high school
+  position: physical education
+
+- name: emily oaks
+  location: millbrooke elementary
+  position: para 3 center-based resource
+
+- name: alexis obermueller
+  location: pleasant ridge elementary
+  position: para 3 autism
+
+- name: patricia oberzan
+  location: ridgeview elementary
+  position: ell teacher
+
+- name: gregory oborny
+  location: regency place elementary
+  position: principal
+
+- name: amy ochs
+  location: santa fe trail middle school
+  position: english
+
+- name: christina ocken
+  location: mill creek campus
+  position: english
+
+- name: julia ockerhausen
+  location: olathe east high school
+  position: resource room
+
+- name: madison oehlert
+  location: walnut grove elementary
+  position: resource room
+
+- name: pamela ogden
+  location: briarwood elementary
+  position: para 3 center-based resource
+
+- name: jean ogden
+  location: district wide
+  position: itinerant teacher sub
+
+- name: darian ogden
+  location: olathe east high school
+  position: science
+
+- name: vicki ogg
+  location: meadow lane elementary
+  position: secretarial assistant
+
+- name: andrea ohnemus
+  location: heatherstone elementary
+  position: speech lang path
+
+- name: javier ojeda
+  location: olathe north high school
+  position: custodial 1
+
+- name: rosaura ojeda-henderson
+  location: operations service center
+  position: manager custodial services
+
+- name: casie olberding
+  location: cedar creek elementary
+  position: grade 5 teacher
+
+- name: tanya olding
+  location: pleasant ridge elementary
+  position: nurse
+
+- name: adam olerich
+  location: olathe north high school
+  position: physical education
+
+- name: lindsey oliver
+  location: mission trail middle school
+  position: physical education
+
+- name: dora olono zuniga
+  location: summit trail middle school
+  position: custodial 1 lead
+
+- name: jessica olsen
+  location: santa fe trail middle school
+  position: para 1 resource
+
+- name: samantha olson
+  location: bentwood elementary
+  position: grade 1 teacher
+
+- name: john olson
+  location: olathe north high school
+  position: science
+
+- name: katherine olson
+  location: oregon trail middle school
+  position: english
+
+- name: katie olvera
+  location: chisholm trail middle school
+  position: social science
+
+- name: bonnie oneal
+  location: olathe north high school
+  position: para 3 center-based resource
+
+- name: susan oppenheim
+  location: mission trail middle school
+  position: administrative secretary 2 pr
+
+- name: kelsy orelus
+  location: heatherstone elementary
+  position: general music
+
+- name: lourdes ornelas
+  location: olathe west high school
+  position: food services school staff
+
+- name: michael orr
+  location: prairie trail middle school
+  position: social science
+
+- name: andrea ortiz
+  location: oregon trail middle school
+  position: math
+
+- name: maria ortiz
+  location: canyon creek elementary
+  position: custodial 2
+
+- name: mardy ortman
+  location: olathe west high school
+  position: english
+
+- name: ronald osborn
+  location: olathe district activity cntr
+  position: maint grounds
+
+- name: cassy osborn
+  location: education center
+  position: director business finance
+
+- name: will osborn
+  location: operations service center
+  position: maint 1
+
+- name: lucia oseguera-davalos
+  location: chisholm trail middle school
+  position: custodial 2
+
+- name: abigail osheim
+  location: district wide
+  position: itinerant teacher sub
+
+- name: angela osheim
+  location: ravenwood elementary
+  position: grade 3 teacher
+
+- name: amy osipik
+  location: olathe northwest high school
+  position: math
+
+- name: deena osness
+  location: olathe north high school
+  position: science
+
+- name: carmenza osorio
+  location: pioneer trail middle school
+  position: international language interp
+
+- name: julie osterhaus
+  location: rolling ridge elementary
+  position: ell teacher
+
+- name: laura ostertag
+  location: havencroft elementary
+  position: grade 3 teacher
+
+- name: jasmyn ostmeyer
+  location: olathe northwest high school
+  position: science
+
+- name: judy ostrom
+  location: olathe east high school
+  position: secretarial assistant
+
+- name: meghan othick
+  location: madison place elementary
+  position: speech lang path
+
+- name: anne otroszko
+  location: olathe south high school
+  position: math
+
+- name: mary otte
+  location: regency place elementary
+  position: para 3 center-based resource
+
+- name: daniel oviedo
+  location: canyon creek elementary
+  position: custodial 2
+
+- name: huei ow
+  location: mahaffie elementary
+  position: food services school staff
+
+- name: jesse owen
+  location: olathe east high school
+  position: physical education
+
+- name: megan owen
+  location: summit trail middle school
+  position: vocal music
+
+- name: hannah owen
+  location: prairie learning center
+  position: art
+
+- name: jennifer owens
+  location: forest view elementary
+  position: grade 3 teacher
+
+- name: lauren owens
+  location: santa fe trail middle school
+  position: reading
+
+- name: jill owens
+  location: briarwood elementary
+  position: general music
+
+- name: jenna owings
+  location: cedar creek elementary
+  position: counselor
+
+- name: christy oxley
+  location: woodland elementary
+  position: occupational therapist
+
+- name: joseph oxley
+  location: pioneer trail middle school
+  position: physical education
+
+- name: heidi oyler
+  location: frontier trail middle school
+  position: para 3 center-based resource
+
+- name: alicia paepke
+  location: olathe northwest high school
+  position: science
+
+- name: jason paepke
+  location: prairie trail middle school
+  position: science
+
+- name: marcus page
+  location: indian trail middle school
+  position: science
+
+- name: stephen page
+  location: olathe northwest high school
+  position: principal assistant
+
+- name: kathy palacios
+  location: ridgeview elementary
+  position: custodial 2
+
+- name: travis palangi
+  location: operations service center
+  position: exec director fac & operations
+
+- name: kimberly palcic
+  location: madison place elementary
+  position: grade 3 teacher
+
+- name: alison palermo
+  location: olathe north high school
+  position: speech lang path
+
+- name: isabella palkowitsh
+  location: olathe north high school
+  position: para 1 resource
+
+- name: samuel palm
+  location: olathe west high school
+  position: social science
+
+- name: ivet palma
+  location: food production center
+  position: food services production floor
+
+- name: lacie palma
+  location: olathe south high school
+  position: para 3 center-based resource
+
+- name: jordan palmer
+  location: westview elementary
+  position: speech lang path
+
+- name: molly palmer
+  location: brougham elementary
+  position: kindergarten teacher
+
+- name: careth palmer
+  location: olathe north high school
+  position: english
+
+- name: stacie palmisano
+  location: olathe north high school
+  position: business/computers
+
+- name: danielle palomino
+  location: ms assistant dance
+  position: dana palu
+
+- name: dlpalu@olatheschools.org
+  location: general music
+  position: olive palu
+
+- name: odpalu@olatheschools.org
+  location: physical education
+  position: dawn panfil
+
+- name: dlpanfil@olatheschools.org
+  location: para 3 center-based resource
+  position: brandy panfili
+
+- name: bnpanfili@olatheschools.org
+  location: para 3 center-based resource
+  position: jessica pannell
+
+- name: jdpannell@olatheschools.org
+  location: art
+  position: idaliz pantoja santos
+
+- name: ipantojasantos@olatheschools.org
+  location: custodial 2
+  position: ashethia paolercio
+
+- name: arpaolercio@olatheschools.org
+  location: para 4 autism instruction asst
+  position: letitia papish
+
+- name: lapapish@olatheschools.org
+  location: secretarial assistant
+  position: carrie parazin
+
+- name: cnparazin@olatheschools.org
+  location: counselor
+  position: gersom paredes
+
+- name: geparedes@olatheschools.org
+  location: spanish
+  position: mary paris-kerrigan
+
+- name: mkpariskerrigan@olatheschools.org
+  location: administrative secretary 6 pr
+  position: bette parish
+
+- name: bparishwa@olatheschools.org
+  location: title i reading
+  position: lindsey park
+
+- name: lmpark@olatheschools.org
+  location: therapeutic program
+  position: paige parker
+
+- name: pbparker@olatheschools.org
+  location: english
+  position: jennifer parker
+
+- name: jparkerwa@olatheschools.org
+  location: ell teacher
+  position: bethany parker
+
+- name: bfparker@olatheschools.org
+  location: english
+  position: fabienne parker
+
+- name: fparker@olatheschools.org
+  location: computer learning associate
+  position: danette parnell
+
+- name: dgparnell@olatheschools.org
+  location: science
+  position: cindy parr
+
+- name: caparr@olatheschools.org
+  location: instructional aide fdk
+  position: isabella parreira
+
+- name: ieparreira@olatheschools.org
+  location: para 3 center-based resource
+  position: stefanie parrish
+
+- name: ssparrish@olatheschools.org
+  location: library media specialist
+  position: alexander parsley
+
+- name: alparsley@olatheschools.org
+  location: network technician 1
+  position: jason parsons
+
+- name: jparsonsht@olatheschools.org
+  location: physical education
+  position: scott partch
+
+- name: srpartch@olatheschools.org
+  location: network technician 1
+  position: laura paschall
+
+- name: lbpaschall@olatheschools.org
+  location: resource room
+  position: lisa pate
+
+- name: lpatept@olatheschools.org
+  location: math
+  position: kalpana patel
+
+- name: kpatelbw@olatheschools.org
+  location: instructional aide
+  position: mary patrick
+
+- name: mkpatrick@olatheschools.org
+  location: general secretary 3
+  position: hannah patterson
+
+- name: hrpatterson@olatheschools.org
+  location: grade 1 teacher
+  position: janna patterson
+
+- name: jpattersonss@olatheschools.org
+  location: gifted
+  position: deanna patterson
+
+- name: dpattersonfpc@olatheschools.org
+  location: food services ops supervisor
+  position: philip patterson
+
+- name: ppattersonwdsc@olatheschools.org
+  location: maint carpenter
+  position: jacob patterson
+
+- name: japatterson@olatheschools.org
+  location: grade 4 teacher
+  position: marisa pattison
+
+- name: mrpattison@olatheschools.org
+  location: para 3 center-based resource
+  position: andrea paulakovich
+
+- name: apaulakovichirc@olatheschools.org
+  location: dir learning services
+  position: rachelle pauly
+
+- name: rlpauly@olatheschools.org
+  location: math
+  position: justin payne
+
+- name: jbpayne@olatheschools.org
+  location: science
+  position: dawn payne
+
+- name: dpayne@olatheschools.org
+  location: food services school staff
+  position: charles payne
+
+- name: capayne@olatheschools.org
+  location: physical education
+  position: lisa payne
+
+- name: lapayne@olatheschools.org
+  location: early childhood disabilities
+  position: joellen payne
+
+- name: jpayneon@olatheschools.org
+  location: reading
+  position: jeriann payne
+
+- name: jepayne@olatheschools.org
+  location: avid/aim tutor
+  position: ronald payne
+
+- name: rpaynewdsc@olatheschools.org
+  location: maint carpenter
+  position: kelsey payton
+
+- name: klpayton@olatheschools.org
+  location: para 1 resource
+  position: tara payton
+
+- name: tspayton@olatheschools.org
+  location: principal
+  position: kelly payton
+
+- name: kpayton@olatheschools.org
+  location: instrumental music orch
+  position: mary peacock
+
+- name: mcpeacock@olatheschools.org
+  location: autism
+  position: kylee pearson
+
+- name: knpearson@olatheschools.org
+  location: counselor
+  position: bradley peck
+
+- name: bapeck@olatheschools.org
+  location: network technician 2
+  position: sarah peden
+
+- name: slpeden@olatheschools.org
+  location: grade 1 teacher
+  position: heather pedersen
+
+- name: hnpedersen@olatheschools.org
+  location: visual
+  position: carol pedotto
+
+- name: capedotto@olatheschools.org
+  location: para 3 center-based resource
+  position: heather peek
+
+- name: hpeek@olatheschools.org
+  location: para 3 center-based resource
+  position: catherine peele
+
+- name: cspeele@olatheschools.org
+  location: para 1 resource
+  position: kimberleigh peet
+
+- name: kapeet@olatheschools.org
+  location: para 3 center-based resource
+  position: jason peete
+
+- name: jmpeete@olatheschools.org
+  location: physical education
+  position: julie pefley
+
+- name: jkpefley@olatheschools.org
+  location: para 3 emotional disturbance
+  position: jennia peguero hernandez
+
+- name: jmpeguerohernandez@olatheschools.org
+  location: specialist transportation
+  position: enrique pena
+
+- name: epenaprt@olatheschools.org
+  location: custodial 1 lead
+  position: melinda pena
+
+- name: mpenawdsc@olatheschools.org
+  location: general secretary 4 rec
+  position: soledad pena
+
+- name: spena@olatheschools.org
+  location: instructional aide ell
+  position: matthew pence
+
+- name: mdpence@olatheschools.org
+  location: physical education
+  position: dustin pence
+
+- name: dpenceon@olatheschools.org
+  location: speech/drama
+  position: cherie pendley
+
+- name: clpendley@olatheschools.org
+  location: para 3 center-based resource
+  position: renita penn
+
+- name: rpennwl@olatheschools.org
+  location: library media specialist
+  position: barbara penn
+
+- name: bpennwl@olatheschools.org
+  location: therapist music
+  position: rhianna penner
+
+- name: rnpenner@olatheschools.org
+  location: grade 1 teacher
+  position: jenna pennington
+
+- name: jcpennington@olatheschools.org
+  location: grade 4 teacher
+  position: catherine penrose
+
+- name: clpenrose@olatheschools.org
+  location: english
+  position: stephanie pepper
+
+- name: slpepper@olatheschools.org
+  location: para 3 center-based resource
+  position: stacia perdue
+
+- name: sperduept@olatheschools.org
+  location: math
+  position: marvin peres
+
+- name: mwperes@olatheschools.org
+  location: custodial 2 lead
+  position: daniel perez
+
+- name: deperez@olatheschools.org
+  location: school psychologist
+  position: jessie perez
+
+- name: jjperez@olatheschools.org
+  location: therapeutic program
+  position: stephanie perez
+
+- name: seperez@olatheschools.org
+  location: grade 4 teacher
+  position: sileny perez
+
+- name: sperez@olatheschools.org
+  location: head start teacher assoc
+  position: luis perez
+
+- name: laperez@olatheschools.org
+  location: custodial 1 lead
+  position: patricia perez-bellew
+
+- name: pperezbellewhlc@olatheschools.org
+  location: speech lang path
+  position: lori perkins
+
+- name: lperkinsgs@olatheschools.org
+  location: nurse
+  position: joshua perkins
+
+- name: jperkinsos@olatheschools.org
+  location: science
+  position: kelley perrin
+
+- name: kperrinsf@olatheschools.org
+  location: business/computers
+  position: emily perry
+
+- name: ejperry@olatheschools.org
+  location: grade 4 teacher
+  position: nicholas perry
+
+- name: njperry@olatheschools.org
+  location: para 3 center-based resource
+  position: karri pesaresi bakalar
+
+- name: kbakalarnv@olatheschools.org
+  location: grade 1 teacher
+  position: lauren peter
+
+- name: lcpeter@olatheschools.org
+  location: counselor
+  position: matthew peterie
+
+- name: mpeterieonw@olatheschools.org
+  location: science
+  position: steven peterik
+
+- name: speterikrr@olatheschools.org
+  location: art
+  position: donna peters
+
+- name: dpetersos@olatheschools.org
+  location: general secretary 3
+  position: jeremy peterson
+
+- name: jpetersonct@olatheschools.org
+  location: physical education
+  position: angela peterson
+
+- name: alpeterson@olatheschools.org
+  location: general secretary 3
+  position: heidi peterson
+
+- name: hpetersonrp@olatheschools.org
+  location: kindergarten teacher
+  position: traci peterson
+
+- name: tkpeterson@olatheschools.org
+  location: physical therapist
+  position: sarah peterson
+
+- name: slpeterson@olatheschools.org
+  location: para 3 center-based resource
+  position: kirk peterson
+
+- name: kepeterson@olatheschools.org
+  location: social science
+  position: sarah peterson
+
+- name: srpeterson@olatheschools.org
+  location: spanish
+  position: amy peterson
+
+- name: afpeterson@olatheschools.org
+  location: substitute teacher
+  position: elizabeth peterson
+
+- name: epetersonos@olatheschools.org
+  location: vocal music
+  position: caitlin peterson
+
+- name: cmpeterson@olatheschools.org
+  location: grade 5 teacher
+  position: danielle peterson
+
+- name: drpeterson@olatheschools.org
+  location: para 2 early childhood disabil
+  position: jessica petrie
+
+- name: japetrie@olatheschools.org
+  location: center-based resource
+  position: ramona petrie
+
+- name: rmpetrie@olatheschools.org
+  location: food services school staff
+  position: diana petruzzi
+
+- name: dpetruzziss@olatheschools.org
+  location: school psychologist
+  position: david petry
+
+- name: dpetryon@olatheschools.org
+  location: math
+  position: brooklyn pettet
+
+- name: brpettet@olatheschools.org
+  location: grade 5 teacher
+  position: lindsey pettiecord
+
+- name: lnpettiecord@olatheschools.org
+  location: instructional aide
+  position: megan petty
+
+- name: mpettymp@olatheschools.org
+  location: grade 5 teacher
+  position: ralph pfeifer
+
+- name: rpfeiferfpc@olatheschools.org
+  location: food services production floor
+  position: deborah pflumm
+
+- name: dpflummirc@olatheschools.org
+  location: specialist para
+  position: david pfortmiller
+
+- name: dapfortmiller@olatheschools.org
+  location: industrial tech
+  position: stacia pheffer-burge
+
+- name: ssphefferburge@olatheschools.org
+  location: para 3 center-based resource
+  position: kathryn phelps
+
+- name: kmphelps@olatheschools.org
+  location: early childhood disabilities
+  position: judith phelps
+
+- name: jphelps@olatheschools.org
+  location: instructional aide fdk
+  position: krystal phelps
+
+- name: knphelps@olatheschools.org
+  location: para 3 center-based resource
+  position: melissa phillippe
+
+- name: mdphillippe@olatheschools.org
+  location: library clerk elementary
+  position: loren phillips
+
+- name: lnphillips@olatheschools.org
+  location: custodial 2
+  position: cheryl phillips
+
+- name: cphillipshlc@olatheschools.org
+  location: para 4 autism instruction asst
+  position: belinda phillips
+
+- name: bphillipssc@olatheschools.org
+  location: gifted
+  position: catherine phillips
+
+- name: cphillipsit@olatheschools.org
+  location: principal assistant
+  position: rachel phillips
+
+- name: rphillipsrr@olatheschools.org
+  location: grade 3 teacher
+  position: christine phillips
+
+- name: cphillipsma@olatheschools.org
+  location: secretarial assistant
+  position: julie pickard
+
+- name: jmpickard@olatheschools.org
+  location: kindergarten teacher
+  position: kathy pickens
+
+- name: kpickenshn@olatheschools.org
+  location: physical education
+  position: meredith pickert
+
+- name: mkpickert@olatheschools.org
+  location: school psychologist
+  position: linda pickert
+
+- name: ldpickert@olatheschools.org
+  location: para 3 job coach
+  position: betty pickett
+
+- name: bjpickett@olatheschools.org
+  location: para 2 early childhood disabil
+  position: megan pickett
+
+- name: mbpickett@olatheschools.org
+  location: para 2 early childhood disabil
+  position: laurie pieken
+
+- name: ljpieken@olatheschools.org
+  location: art
+  position: jessica piepho
+
+- name: jypiepho@olatheschools.org
+  location: para 3 center-based resource
+  position: eden pierce
+
+- name: ejpierce@olatheschools.org
+  location: library clerk elementary
+  position: shelia pierce
+
+- name: spierceirc@olatheschools.org
+  location: para 3 assistive technology
+  position: anita pierson
+
+- name: apiersonbw@olatheschools.org
+  location: early childhood disabilities
+  position: anthony pierucci
+
+- name: ajpierucci@olatheschools.org
+  location: para 3 center-based resource
+  position: morgan pietrus
+
+- name: mapietrus@olatheschools.org
+  location: food services school staff
+  position: james pilsl
+
+- name: jjpilsl@olatheschools.org
+  location: food services warehouse 12 mo
+  position: vilma pina
+
+- name: vzpina@olatheschools.org
+  location: international language interp
+  position: mabel pina
+
+- name: mpina@olatheschools.org
+  location: para 3 center-based resource
+  position: maria pineda
+
+- name: mepineda@olatheschools.org
+  location: custodial 2
+  position: alberto pineda tortolero
+
+- name: ajpinedatortolero@olatheschools.org
+  location: custodial 2
+  position: tiffany pinter
+
+- name: tpintermb@olatheschools.org
+  location: grade 2 teacher
+  position: samantha pinto-hicks
+
+- name: spintohicks@olatheschools.org
+  location: resource room
+  position: haley pitcairn
+
+- name: hmpitcairn@olatheschools.org
+  location: grade 2 teacher
+  position: janet pitcairn
+
+- name: jpitcairnclc@olatheschools.org
+  location: physical education
+  position: nicholas pitcher
+
+- name: npitcherrw@olatheschools.org
+  location: physical education
+  position: leticia pitman
+
+- name: lcpitman@olatheschools.org
+  location: social science
+  position: kara pittman
+
+- name: kpittmanon@olatheschools.org
+  location: social science
+  position: deanna pittman
+
+- name: dlpittman@olatheschools.org
+  location: resource room
+  position: garry pittman
+
+- name: gdpittman@olatheschools.org
+  location: custodial 2
+  position: ronald pitts
+
+- name: rdpitts@olatheschools.org
+  location: para 1 resource
+  position: michelle pla-carmona
+
+- name: mplacarmona@olatheschools.org
+  location: instructional aide ell
+  position: edward planco
+
+- name: ejplanco@olatheschools.org
+  location: emotional disturbance
+  position: alison plankers
+
+- name: alplankers@olatheschools.org
+  location: family and consumer sci
+  position: meghan plankers
+
+- name: meplankers@olatheschools.org
+  location: grade 3 teacher
+  position: laurie plankers
+
+- name: lplankersos@olatheschools.org
+  location: english
+  position: debra plant
+
+- name: dplantrv@olatheschools.org
+  location: computer learning associate
+  position: terina platt
+
+- name: tjplatt@olatheschools.org
+  location: business/computers
+  position: linda player
+
+- name: ljplayer@olatheschools.org
+  location: para 3 center-based resource
+  position: hanna pleiss
+
+- name: hmpleiss@olatheschools.org
+  location: grade 2 teacher
+  position: kristina ploeger
+
+- name: kkploeger@olatheschools.org
+  location: para 3 job coach
+  position: barbara plowman
+
+- name: bplowmanfpc@olatheschools.org
+  location: food services school staff
+  position: robert plowman
+
+- name: rplowmanfpc@olatheschools.org
+  location: food services school staff
+  position: janice plum
+
+- name: jplumcs@olatheschools.org
+  location: reading
+  position: april poff
+
+- name: arpoff@olatheschools.org
+  location: para 3 deaf/hard of hearing
+  position: cherie pollina
+
+- name: cpollinace@olatheschools.org
+  location: grade 2 teacher
+  position: jennifer pollock
+
+- name: jpollockcs@olatheschools.org
+  location: grade 3 teacher
+  position: glen pollom
+
+- name: apollomon@olatheschools.org
+  location: business/computers
+  position: kristen pomerenke
+
+- name: kpomerenkepc@olatheschools.org
+  location: grade 2 teacher
+  position: t'erra ponder
+
+- name: trponder@olatheschools.org
+  location: head start teacher assoc
+  position: melissa ponder
+
+- name: mponderhlc@olatheschools.org
+  location: head start teacher assoc
+  position: elizabeth pope
+
+- name: bapope@olatheschools.org
+  location: grade 4 teacher
+  position: zachary pope
+
+- name: ztpope@olatheschools.org
+  location: social science
+  position: michael pope
+
+- name: mapope@olatheschools.org
+  location: science
+  position: courtney porter
+
+- name: cmporter@olatheschools.org
+  location: physical education
+  position: berta portillo erazo
+
+- name: baportilloerazo@olatheschools.org
+  location: custodial 2
+  position: peyton porting
+
+- name: paporting@olatheschools.org
+  location: grade 5 teacher
+  position: gayla posch
+
+- name: gposchth@olatheschools.org
+  location: grade 4 teacher
+  position: ronald posey
+
+- name: rposeyplc@olatheschools.org
+  location: therapist recreation
+  position: jessica posgai
+
+- name: jlposgai@olatheschools.org
+  location: science
+  position: stephanie poss
+
+- name: sposs@olatheschools.org
+  location: library clerk elementary
+  position: lauren post
+
+- name: lpost@olatheschools.org
+  location: kindergarten teacher
+  position: jessica postlethwait
+
+- name: jrpostlethwait@olatheschools.org
+  location: grade 2 teacher
+  position: kristen potter
+
+- name: klpotter@olatheschools.org
+  location: instructional coach - sec
+  position: prentes potts
+
+- name: ppotts@olatheschools.org
+  location: business/computers
+  position: janice powell
+
+- name: jpowellos@olatheschools.org
+  location: resource room
+  position: hannah powell
+
+- name: hmpowell@olatheschools.org
+  location: spanish
+  position: lupita powell
+
+- name: lpowell@olatheschools.org
+  location: para 3 center-based resource
+  position: jalene powell-green
+
+- name: jmpowellgreen@olatheschools.org
+  location: general school aide
+  position: john powers
+
+- name: jdpowers@olatheschools.org
+  location: emotional disturbance
+  position: angela powers
+
+- name: apowersonw@olatheschools.org
+  location: english
+  position: theron powers
+
+- name: tpowerspr@olatheschools.org
+  location: custodial 2
+  position: chelsea praeuner
+
+- name: cpraeunerrv@olatheschools.org
+  location: grade 4 teacher
+  position: diane prather
+
+- name: dmprather@olatheschools.org
+  location: kindergarten teacher
+  position: patricia prendes
+
+- name: pprendeswl@olatheschools.org
+  location: secretarial assistant
+  position: amanda preno
+
+- name: aprenofv@olatheschools.org
+  location: grade 4 teacher
+  position: brandy prestia
+
+- name: bprestiarw@olatheschools.org
+  location: grade 3 teacher
+  position: sheila preston
+
+- name: sdpreston@olatheschools.org
+  location: para 1 speech
+  position: elizabeth prestridge
+
+- name: eaprestridge@olatheschools.org
+  location: grade 4 teacher
+  position: joshua price
+
+- name: jpriceon@olatheschools.org
+  location: principal assistant
+  position: jeremy pride
+
+- name: jjpride@olatheschools.org
+  location: science
+  position: stephanie proctor
+
+- name: sproctorfv@olatheschools.org
+  location: ell teacher
+  position: marnie proffitt
+
+- name: mlproffitt@olatheschools.org
+  location: para 3 job coach
+  position: stephanie pruett
+
+- name: spruettma@olatheschools.org
+  location: library media specialist
+  position: teresa pruett-epp
+
+- name: trpruettepp@olatheschools.org
+  location: gifted
+  position: sierra pryce
+
+- name: sqpryce@olatheschools.org
+  location: social worker
+  position: julie puckett
+
+- name: jpuckettct@olatheschools.org
+  location: center-based resource
+  position: liliana puentes rodriguez
+
+- name: lpuentesrodriguezfpc@olatheschools.org
+  location: food services school staff
+  position: xiaoping puhr
+
+- name: xpuhr@olatheschools.org
+  location: para 3 center-based resource
+  position: hannah pulford
+
+- name: hgpulford@olatheschools.org
+  location: center-based resource
+  position: erin pullen
+
+- name: egpullen@olatheschools.org
+  location: social worker
+  position: cory pummill
+
+- name: cjpummill@olatheschools.org
+  location: custodial 2
+  position: megan puppe
+
+- name: mrpuppe@olatheschools.org
+  location: grade 2 teacher
+  position: eric purinton
+
+- name: enpurinton@olatheschools.org
+  location: wireless network analyst
+  position: jennifer purinton
+
+- name: japurinton@olatheschools.org
+  location: grade 5 teacher
+  position: jack pursley
+
+- name: jmpursley@olatheschools.org
+  location: para 3 center-based resource
+  position: sierra puryear
+
+- name: sdpuryear@olatheschools.org
+  location: math
+  position: trisha putthoff
+
+- name: tputthoffbb@olatheschools.org
+  location: principal
+  position: karen pyron
+
+- name: kpyronwa@olatheschools.org
+  location: physical education
+  position: huda qandeel
+
+- name: hbqandeel@olatheschools.org
+  location: food services school staff
+  position: patrick quaife
+
+- name: ptquaife@olatheschools.org
+  location: para 3 autism
+  position: karina quail
+
+- name: kquailce@olatheschools.org
+  location: speech lang path
+  position: jacqueline qually-logan
+
+- name: jaquallylogan@olatheschools.org
+  location: head start teacher assoc
+  position: josephine qudsi
+
+- name: jqudsifpc@olatheschools.org
+  location: food services school staff
+  position: alyssa quenelle
+
+- name: arquenelle@olatheschools.org
+  location: para 3 center-based resource
+  position: jose quezada martinez
+
+- name: jaquezadamartinez@olatheschools.org
+  location: custodial 2
+  position: melissa quigley
+
+- name: maquigley@olatheschools.org
+  location: food serv asst manager
+  position: john quinn
+
+- name: jdquinn@olatheschools.org
+  location: specialist textbook
+  position: edgar quinones
+
+- name: equinoneshlc@olatheschools.org
+  location: custodial 2
+  position: rosy quintero
+
+- name: rquintero@olatheschools.org
+  location: para 3 center-based resource
+  position: taylar rabel
+
+- name: trabelit@olatheschools.org
+  location: english
+  position: joan radakovich
+
+- name: jradakovichos@olatheschools.org
+  location: science
+  position: cynthia rademaker
+
+- name: clrademaker@olatheschools.org
+  location: para 3 job coach
+  position: kimberly rafoth
+
+- name: krafothcc@olatheschools.org
+  location: grade 2 teacher
+  position: tina ragan
+
+- name: traganrw@olatheschools.org
+  location: resource room
+  position: raghad ragheb
+
+- name: rrragheb@olatheschools.org
+  location: food services school staff
+  position: amanda rainey
+
+- name: araineymt@olatheschools.org
+  location: math
+  position: shanlee rains
+
+- name: srainsmp@olatheschools.org
+  location: grade 3 teacher
+  position: jessica ramirez
+
+- name: jrramirez@olatheschools.org
+  location: head start teacher assoc
+  position: susan rammage
+
+- name: srrammage@olatheschools.org
+  location: nurse
+  position: lukas rampy
+
+- name: lgrampy@olatheschools.org
+  location: math
+  position: lori ann ramsey
+
+- name: lramsey@olatheschools.org
+  location: para 3 center-based resource
+  position: kristin ramshaw
+
+- name: kramshawos@olatheschools.org
+  location: science
+  position: roland rance
+
+- name: rrancebb@olatheschools.org
+  location: physical education
+  position: julie rancudo
+
+- name: jarancudo@olatheschools.org
+  location: grade 5 teacher
+  position: natalie raney
+
+- name: njraney@olatheschools.org
+  location: library clerk secondary
+  position: theresa rangel
+
+- name: tmrangel@olatheschools.org
+  location: para 2 early childhood disabil
+  position: angela rangel
+
+- name: airangel@olatheschools.org
+  location: math
+  position: jordan rangel
+
+- name: jnrangel@olatheschools.org
+  location: ms assistant cheerleading
+  position: anthony rangel
+
+- name: trangel@olatheschools.org
+  location: specialist video prod
+  position: jeanette rangel
+
+- name: jrangel@olatheschools.org
+  location: instructional aide ell
+  position: amy rankin
+
+- name: aerankin@olatheschools.org
+  location: general secretary 6
+  position: janna raper
+
+- name: jlraper@olatheschools.org
+  location: manager budget
+  position: molly rapp
+
+- name: mjrapp@olatheschools.org
+  location: secretarial assistant
+  position: darcy rasmussen
+
+- name: derasmussen@olatheschools.org
+  location: resource room
+  position: kayla rasmussen
+
+- name: klrasmussen@olatheschools.org
+  location: resource room
+  position: sara rast
+
+- name: sbrast@olatheschools.org
+  location: social science
+  position: sabra rattenne
+
+- name: slrattenne@olatheschools.org
+  location: instructional aide fdk
+  position: veronica ratway
+
+- name: vratwayfpc@olatheschools.org
+  location: food services school staff
+  position: kaci ratzlaff
+
+- name: keratzlaff@olatheschools.org
+  location: ell teacher
+  position: mary rausch
+
+- name: marausch@olatheschools.org
+  location: para 3 center-based resource
+  position: dana ravert
+
+- name: dlravert@olatheschools.org
+  location: science
+  position: andrew raw
+
+- name: ajraw@olatheschools.org
+  location: therapeutic program
+  position: angela rawalt
+
+- name: amrawalt@olatheschools.org
+  location: ell teacher
+  position: lauren ray
+
+- name: lhray@olatheschools.org
+  location: emotional disturbance
+  position: nicole ray
+
+- name: olathe district activity cntr
+  location: mdreyna@olatheschools.org
+  position: 913-780-7390
+
+- name: hs assistant musical
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: dir social emotional learning
+  location: 913-780-7570
+  position: northview elementary
+
+- name: fmla and leaves specialist
+  location: 913-780-7120
+  position: olathe east high school
+
+- name: instructional coach - sec
+  location: 913-780-7011
+  position: operations service center
+
+- name: counselor lead
+  location: 913-780-7160
+  position: olathe south high school
+
+- name: community liaison
+  location: 913-780-7180
+  position: olathe west high school
+
+- name: microsoft systems analyst
+  location: 913-780-7610
+  position: prairie center elementary
+
+- name: social emotional support tchr
+  location: 913-780-7540
+  position: manchester park elementary
+
+- name: specialist transportation
+  location: 913-780-7350
+  position: brougham elementary
+
+- name: jennifer sears
+  location: mill creek campus
+  position: english
+
+- name: allison sears
+  location: summit trail middle school
+  position: family and consumer sci
+
+- name: suzanne seck
+  location: heritage elementary
+  position: general school aide
+
+- name: suzette secrest
+  location: walnut grove elementary
+  position: grade 5 teacher
+
+- name: gordon seeger
+  location: olathe south high school
+  position: german
+
+- name: laura seemann
+  location: forest view elementary
+  position: grade 2 teacher
+
+- name: danette seffens
+  location: santa fe trail middle school
+  position: data operator 4
+
+- name: reyna segovia quezada
+  location: california trail middle school
+  position: custodial 2
+
+- name: anna seher
+  location: pioneer trail middle school
+  position: para 3 center-based resource
+
+- name: erin seib
+  location: central elementary
+  position: grade 1 teacher
+
+- name: lori seidl
+  location: education center
+  position: specialist student services
+
+- name: christopher seidler
+  location: olathe east high school
+  position: german
+
+- name: susan seitz
+  location: olathe west high school
+  position: para 3 center-based resource
+
+- name: christopher selby
+  location: forest view elementary
+  position: para 3 center-based resource
+
+- name: josh selig-votaw
+  location: hs assistant dance team
+  position: melissa sellers
+
+- name: msellersoe@olatheschools.org
+  location: art
+  position: kemberly selman
+
+- name: kselmanss@olatheschools.org
+  location: grade 1 teacher
+  position: john selzer
+
+- name: jjselzer@olatheschools.org
+  location: instrumental music band
+  position: amber senst
+
+- name: ansenst@olatheschools.org
+  location: instrumental music orch
+  position: rosana sequera-rodriguez
+
+- name: rdsequerarodriguez@olatheschools.org
+  location: custodial 2
+  position: valerie serna
+
+- name: vsernawa@olatheschools.org
+  location: grade 1 teacher
+  position: crucita serrano-diaz
+
+- name: cserranodiaz@olatheschools.org
+  location: parents as teachers
+  position: allison servaes
+
+- name: amservaes@olatheschools.org
+  location: english
+  position: haley sestak
+
+- name: hlsestak@olatheschools.org
+  location: family and consumer sci
+  position: christine setley
+
+- name: clsetley@olatheschools.org
+  location: french
+  position: richard setter
+
+- name: rsetteronw@olatheschools.org
+  location: social science
+  position: amie seurer
+
+- name: ajseurer@olatheschools.org
+  location: para 3 job coach
+  position: kelly seward
+
+- name: ksewardrp@olatheschools.org
+  location: grade 5 teacher
+  position: scott seyl
+
+- name: svseyl@olatheschools.org
+  location: math
+  position: jennifer shackelford
+
+- name: jlshackelford@olatheschools.org
+  location: secretarial assistant
+  position: margaret shadid
+
+- name: mcshadid@olatheschools.org
+  location: social science
+  position: edward shafer
+
+- name: eshaferoe@olatheschools.org
+  location: speech/drama
+  position: christine shaffer
+
+- name: chshaffer@olatheschools.org
+  location: food services school staff
+  position: jennifer shambaugh
+
+- name: jjshambaugh@olatheschools.org
+  location: grade 3 teacher
+  position: kari shamet
+
+- name: kshametit@olatheschools.org
+  location: industrial tech
+  position: james sharpe
+
+- name: jsharpeprt@olatheschools.org
+  location: social science
+  position: jeffrey sharpton
+
+- name: jssharpton@olatheschools.org
+  location: network technician 1
+  position: philip shaw
+
+- name: pshawon@olatheschools.org
+  location: family and consumer sci
+  position: sarah shaw
+
+- name: sshawrp@olatheschools.org
+  location: library media specialist
+  position: karen sheets
+
+- name: kcsheets@olatheschools.org
+  location: library clerk secondary
+  position: rebecca sheffer
+
+- name: rjsheffer@olatheschools.org
+  location: food services school staff
+  position: lynne sheffield
+
+- name: lsheffieldfrv@olatheschools.org
+  location: grade 3 teacher
+  position: reagan sheffield
+
+- name: rosheffield@olatheschools.org
+  location: spanish
+  position: taylor sheffield
+
+- name: tlsheffield@olatheschools.org
+  location: english
+  position: joyce sheffield
+
+- name: jmsheffield@olatheschools.org
+  location: para 3 audiology
+  position: lesley sheldon
+
+- name: lsheldonrr@olatheschools.org
+  location: library media specialist
+  position: amber shelton
+
+- name: amshelton@olatheschools.org
+  location: grade 2 teacher
+  position: heather shepherd
+
+- name: hshepherdcw@olatheschools.org
+  location: grade 5 teacher
+  position: neil shepherd
+
+- name: nshepherdcw@olatheschools.org
+  location: grade 5 teacher
+  position: channing sheppard
+
+- name: csheppardct@olatheschools.org
+  location: speech lang path
+  position: michael sheridan
+
+- name: sheridan@olatheschools.org
+  location: senior infrastructure engineer
+  position: john sherman
+
+- name: jrsherman@olatheschools.org
+  location: physical education
+  position: martha shern
+
+- name: mjshern@olatheschools.org
+  location: food services school staff
+  position: jean sherraden
+
+- name: jasherraden@olatheschools.org
+  location: general secretary 2
+  position: andrew shinn
+
+- name: aashinn@olatheschools.org
+  location: para 1 resource
+  position: sarah shipley
+
+- name: sshipleygs@olatheschools.org
+  location: instrumental music orch
+  position: stacy shipley
+
+- name: sshipleywl@olatheschools.org
+  location: principal
+  position: timothy shipley
+
+- name: tshipleyos@olatheschools.org
+  location: business/computers
+  position: rob shipley
+
+- name: rgshipley@olatheschools.org
+  location: reading
+  position: suzan shipman
+
+- name: slshipman@olatheschools.org
+  location: para 3 job coach
+  position: donald shipman
+
+- name: 913-780-8264
+  location: david shoemaker
+  position: dshoemakerprt@olatheschools.org
+
+- name: hs assistant dance team
+  location: 913-780-7015
+  position: harmony early childhood cntr
+
+- name: food service truck driver 9 mo
+  location: 913-780-7640
+  position: ravenwood elementary
+
+- name: maint plumb ld
+  location: 913-780-7310
+  position: black bob elementary
+
+- name: administrative secretary 1
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: hs head dance team
+  location: 913-780-7006
+  position: instructional resource center
+
+- name: coord instructional coach
+  location: 913-780-7450
+  position: green springs elementary
+
+- name: maureen tolman
+  location: fairview elementary
+  position: instructional aide ell
+
+- name: anjanette tolman
+  location: instructional resource center
+  position: exec director special services
+
+- name: heidi tomassi
+  location: mill creek campus
+  position: therapeutic program
+
+- name: desiree tomlinson
+  location: santa fe trail middle school
+  position: english
+
+- name: jamie tomlinson
+  location: indian creek elementary
+  position: resource room
+
+- name: silvia tompkins
+  location: havencroft elementary
+  position: custodial 2
+
+- name: whitney toms
+  location: regency place elementary
+  position: ell teacher
+
+- name: emily toplikar
+  location: woodland elementary
+  position: kindergarten teacher
+
+- name: edward toplikar
+  location: madison place elementary
+  position: physical education
+
+- name: jill torchia
+  location: madison place elementary
+  position: general school aide
+
+- name: matthew tormey
+  location: west dennis learning center
+  position: specialist copy
+
+- name: emily torrey
+  location: harmony early childhood cntr
+  position: para 1 speech
+
+- name: esmeralda toscana abrego
+  location: bentwood elementary
+  position: custodial 2
+
+- name: debra tosh
+  location: woodland elementary
+  position: nurse
+
+- name: elizabeth tostenson
+  location: meadow lane elementary
+  position: para 3 center-based resource
+
+- name: jamie totte-boyd
+  location: chisholm trail middle school
+  position: physical education
+
+- name: lynnette toutges
+  location: pioneer trail middle school
+  position: nurse
+
+- name: heather tow
+  location: olathe east high school
+  position: english
+
+- name: shayna towle
+  location: countryside elementary
+  position: kindergarten teacher
+
+- name: roxann townsend
+  location: harmony early childhood cntr
+  position: para 3 ec autism
+
+- name: robin toy
+  location: pleasant ridge elementary
+  position: secretarial assistant
+
+- name: wendi trammell
+  location: bentwood elementary
+  position: para 3 autism
+
+- name: loan tran
+  location: california trail middle school
+  position: food services school staff
+
+- name: kelsey trauer
+  location: heartland early childhood cntr
+  position: autism specialist 1
+
+- name: wendy trautman-yurchak
+  location: washington elementary
+  position: grade 4 teacher
+
+- name: denice trawicki
+  location: santa fe trail middle school
+  position: vocal music
+
+- name: elizabeth traxler
+  location: mahaffie elementary
+  position: grade 4 teacher
+
+- name: lynn traylor
+  location: havencroft elementary
+  position: administrative secretary 6 pr
+
+- name: mark traylor
+  location: college blvd activity cntr
+  position: custodial 1
+
+- name: tommy treaster
+  location: operations service center
+  position: maint carpenter
+
+- name: daniel treber
+  location: olathe north high school
+  position: spanish
+
+- name: julianne tremayne
+  location: green springs elementary
+  position: therapeutic program
+
+- name: kayla trenary
+  location: olathe west high school
+  position: para 3 autism
+
+- name: joshua trevino
+  location: olathe northwest high school
+  position: english
+
+- name: diana trevino
+  location: indian creek elementary
+  position: general school aide
+
+- name: robin tripkos castaneda
+  location: fairview elementary
+  position: kindergarten teacher
+
+- name: lorrell triplett
+  location: olathe east high school
+  position: para 3 center-based resource
+
+- name: skylor triplett
+  location: olathe east high school
+  position: para 3 emotional disturbance
+
+- name: pratibha trivedi
+  location: olathe east high school
+  position: para 1 resource
+
+- name: jamie trubiroha
+  location: pioneer trail middle school
+  position: english
+
+- name: barbara truitt
+  location: olathe south high school
+  position: instructional aide
+
+- name: margaret truitt
+  location: indian trail middle school
+  position: resource room
+
+- name: matthew trumpp
+  location: olathe west high school
+  position: social science
+
+- name: jamie trumpp
+  location: arbor creek elementary
+  position: general music
+
+- name: samantha tsouras
+  location: pioneer trail middle school
+  position: para 3 emotional disturbance
+
+- name: katie tucker
+  location: central elementary
+  position: grade 3 teacher
+
+- name: andrea tumbleson
+  location: northview elementary
+  position: grade 3 teacher
+
+- name: bryan tumlinson
+  location: lone elm support center
+  position: maint grounds
+
+- name: kay turner-forsyth
+  location: westview elementary
+  position: counselor
+
+- name: elizabeth tuttle
+  location: summit trail middle school
+  position: library clerk secondary
+
+- name: brian tveter
+  location: pioneer trail middle school
+  position: math
+
+- name: margaret twaddle
+  location: oregon trail middle school
+  position: counselor
+
+- name: jennifer tygard
+  location: heritage elementary
+  position: grade 4 teacher
+
+- name: dara tyler
+  location: indian trail middle school
+  position: physical education
+
+- name: keeley tyrer
+  location: prairie center elementary
+  position: grade 5 teacher
+
+- name: courtney tyrrell
+  location: santa fe trail middle school
+  position: food services school staff
+
+- name: elizabeth uden
+  location: prairie trail middle school
+  position: math
+
+- name: karen ufford
+  location: pioneer trail middle school
+  position: counselor
+
+- name: matthew ufford
+  location: forest view elementary
+  position: kindergarten teacher
+
+- name: vicki uhlman
+  location: clearwater creek elementary
+  position: para 1 resource
+
+- name: melanie uhrich
+  location: heartland early childhood cntr
+  position: speech lang path
+
+- name: kelly ulmer
+  location: santa fe trail middle school
+  position: ell teacher
+
+- name: thomas ulmer
+  location: instructional resource center
+  position: director blended learning
+
+- name: gloria umana
+  location: washington elementary
+  position: custodial 2
+
+- name: jose umana
+  location: ravenwood elementary
+  position: custodial 1 lead
+
+- name: pamela umholtz
+  location: ravenwood elementary
+  position: para 3 center-based resource
+
+- name: ashley umphrey
+  location: chisholm trail middle school
+  position: social science
+
+- name: joshua umphrey
+  location: olathe west high school
+  position: principal assistant
+
+- name: jerry umscheid
+  location: hs assistant musical
+  position: dawnetta unkel
+
+- name: dlunkel@olatheschools.org
+  location: audiologist
+  position: bethany unruh
+
+- name: bmunruh@olatheschools.org
+  location: general music
+  position: lyndsay urban
+
+- name: lnurban@olatheschools.org
+  location: grade 1 teacher
+  position: tim urban
+
+- name: turbanmb@olatheschools.org
+  location: gifted
+  position: lisa urban
+
+- name: lrurban@olatheschools.org
+  location: center-based resource
+  position: kristy urman
+
+- name: kurmangs@olatheschools.org
+  location: physical education
+  position: lidia urquilla arevalo
+
+- name: lyurquillaarevalo@olatheschools.org
+  location: custodial 2
+  position: jamie vacaliuc
+
+- name: jlvacaliuc@olatheschools.org
+  location: para 3 center-based resource
+  position: valerie vacha
+
+- name: vsvacha@olatheschools.org
+  location: head start teacher assoc
+  position: susan vacinek
+
+- name: slvacinek@olatheschools.org
+  location: general secretary 2
+  position: praveen vadapally
+
+- name: pkvadapally@olatheschools.org
+  location: science
+  position: lidia valdez
+
+- name: lvaldez@olatheschools.org
+  location: custodial 2
+  position: melanie valenti
+
+- name: mvalentirv@olatheschools.org
+  location: instructional aide ell
+  position: pamela valentine
+
+- name: pvalentineoe@olatheschools.org
+  location: spanish
+  position: joseph valich
+
+- name: jjvalich@olatheschools.org
+  location: para 3 center-based resource
+  position: heather vallad
+
+- name: hcvallad@olatheschools.org
+  location: art
+  position: sheila vallee
+
+- name: svalleehn@olatheschools.org
+  location: speech lang path
+  position: martha valverde-martinez
+
+- name: mlvalverdemartinez@olatheschools.org
+  location: custodial 2
+  position: ernest van corler
+
+- name: egvancorler@olatheschools.org
+  location: custodial 1 lead
+  position: jeffrey van dyke
+
+- name: jtvandyke@olatheschools.org
+  location: public safety
+  position: johanna van holland
+
+- name: jlvanholland@olatheschools.org
+  location: resource room
+  position: lori van houtan
+
+- name: lavanhoutan@olatheschools.org
+  location: secretarial assistant
+  position: dalton van houtan
+
+- name: djvanhoutan@olatheschools.org
+  location: maint welding
+  position: robin van houtan
+
+- name: rvanhoutan@olatheschools.org
+  location: microsoft support technician
+  position: sarah van kuiken
+
+- name: snvankuiken@olatheschools.org
+  location: english
+  position: katherine van nuland
+
+- name: kmvannuland@olatheschools.org
+  location: resource room
+  position: jamie van scyoc
+
+- name: jvanscyocwl@olatheschools.org
+  location: autism
+  position: david van thullenar
+
+- name: dvanthullenarot@olatheschools.org
+  location: science
+  position: leigh vance
+
+- name: lvanceos@olatheschools.org
+  location: resource room
+  position: genia vance
+
+- name: ggvance@olatheschools.org
+  location: para 3 center-based resource
+  position: laurie vancorler
+
+- name: lvancorlerfpc@olatheschools.org
+  location: food services production floor
+  position: melissa vandehaar
+
+- name: mlvandehaar@olatheschools.org
+  location: para 1 speech
+  position: stacy vandemark
+
+- name: svandemarkfrv@olatheschools.org
+  location: library media specialist
+  position: mary vandenbark
+
+- name: mvandenbarkhlc@olatheschools.org
+  location: head start parent fam engage
+  position: travis vandenoord
+
+- name: tjvandenoord@olatheschools.org
+  location: english
+  position: beverly vanderslice
+
+- name: bvanderslicemp@olatheschools.org
+  location: nurse
+  position: ricky vandevord
+
+- name: rwvandevord@olatheschools.org
+  location: custodial 2
+  position: sarah vandusen
+
+- name: svandusencs@olatheschools.org
+  location: kindergarten teacher
+  position: stephanie vanhoose
+
+- name: svanhooserp@olatheschools.org
+  location: grade 4 teacher
+  position: mary vanhooser
+
+- name: muvanhooser@olatheschools.org
+  location: center-based resource
+  position: abbie vanhorn
+
+- name: asvanhorn@olatheschools.org
+  location: para 2 early childhood disabil
+  position: laura vanleeuwen
+
+- name: llvanleeuwen@olatheschools.org
+  location: vocal music
+  position: stephanie vanlong
+
+- name: savanlong@olatheschools.org
+  location: secretarial assistant
+  position: adam vanpelt
+
+- name: ajvanpelt@olatheschools.org
+  location: general music
+  position: hallie vanroekel
+
+- name: havanroekel@olatheschools.org
+  location: english
+  position: jill vanunen
+
+- name: jvanunenfpc@olatheschools.org
+  location: food services school staff
+  position: teresa vanzant
+
+- name: tvanzantgs@olatheschools.org
+  location: grade 4 teacher
+  position: susana vargas
+
+- name: svargasfv@olatheschools.org
+  location: grade 4 teacher
+  position: maria vargas
+
+- name: mrvargas@olatheschools.org
+  location: international language interp
+  position: josefina varillas-fernandez
+
+- name: jvarillasfernandez@olatheschools.org
+  location: custodial 2
+  position: brent varner
+
+- name: bavarner@olatheschools.org
+  location: maint electrician
+  position: patricia varraveto
+
+- name: pvarravetooe@olatheschools.org
+  location: gifted
+  position: anna varriano
+
+- name: amvarriano@olatheschools.org
+  location: speech lang path
+  position: lydia vasquez
+
+- name: lvasquezft@olatheschools.org
+  location: family and consumer sci
+  position: eddie vasquez
+
+- name: evasquezmt@olatheschools.org
+  location: science
+  position: lourdes vasquez de abreu
+
+- name: lvvasquezdeabreu@olatheschools.org
+  location: custodial 2
+  position: lisa vasquez myers
+
+- name: llvasquezmyers@olatheschools.org
+  location: social science
+  position: nuris vasquez-betancourt
+
+- name: nvasquezbetancourtwa@olatheschools.org
+  location: international language interp
+  position: cindy vaughn
+
+- name: ckvaughn@olatheschools.org
+  location: amer sign lang interp
+  position: stephanie vazquez
+
+- name: scvasquez@olatheschools.org
+  location: custodial 2
+  position: regan veach
+
+- name: rlveach@olatheschools.org
+  location: ell teacher
+  position: jami veatch
+
+- name: jdveatch@olatheschools.org
+  location: principal
+  position: ashley veatch
+
+- name: aeveatch@olatheschools.org
+  location: para 3 ec autism
+  position: julie veatch
+
+- name: jmveatch@olatheschools.org
+  location: principal
+  position: micah veatch
+
+- name: mveatchonw@olatheschools.org
+  location: resource room
+  position: madison vega
+
+- name: mlvega@olatheschools.org
+  location: grade 4 teacher
+  position: enrique velazquez
+
+- name: evelazquez@olatheschools.org
+  location: custodial 1
+  position: katherine vena
+
+- name: kavena@olatheschools.org
+  location: pbis coach
+  position: jennifer vernon
+
+- name: javernon@olatheschools.org
+  location: para 3 center-based resource
+  position: heather vernon
+
+- name: hvernonfpc@olatheschools.org
+  location: food services school staff
+  position: clara vernon
+
+- name: cevernon@olatheschools.org
+  location: food serv manager
+  position: bonnie verrill
+
+- name: bdverrill@olatheschools.org
+  location: para 1 speech
+  position: angela verstraete
+
+- name: averstraeteos@olatheschools.org
+  location: family and consumer sci
+  position: nikki vestal
+
+- name: nvestalrw@olatheschools.org
+  location: secretarial assistant
+  position: wendy vicente
+
+- name: wpvicente@olatheschools.org
+  location: head start teacher
+  position: mallory vickers
+
+- name: mdvickers@olatheschools.org
+  location: grade 3 teacher
+  position: isabel victoria-bonelo
+
+- name: ivictoriaboneloot@olatheschools.org
+  location: custodial 2
+  position: reynaldo vidaurri
+
+- name: rvidaurri@olatheschools.org
+  location: physical education
+  position: karen viehweg
+
+- name: kdviehweg@olatheschools.org
+  location: para 2 early childhood disabil
+  position: cindy vientos
+
+- name: crvientos@olatheschools.org
+  location: computer learning associate
+  position: marta vieyra
+
+- name: mpvieyra@olatheschools.org
+  location: food serv asst manager
+  position: gloria vilche-puertos
+
+- name: gsvilchepuertos@olatheschools.org
+  location: custodial 1
+  position: irma vilchis
+
+- name: ivilchis@olatheschools.org
+  location: para 3 center-based resource
+  position: yesenia villa perez
+
+- name: yvillaperez@olatheschools.org
+  location: custodial 2
+  position: martha villalobos-morales
+
+- name: movillalobosmorales@olatheschools.org
+  location: custodial 2
+  position: luz villarreal
+
+- name: lvillarreal@olatheschools.org
+  location: food services school staff
+  position: lucas vincent
+
+- name: lfvincent@olatheschools.org
+  location: emotional disturbance
+  position: diana vincent
+
+- name: devincent@olatheschools.org
+  location: instructional aide ell
+  position: jennifer vohland
+
+- name: javohland@olatheschools.org
+  location: resource room
+  position: abigail vohs
+
+- name: arvohs@olatheschools.org
+  location: grade 4 teacher
+  position: patrick vohs
+
+- name: pvohswdsc@olatheschools.org
+  location: maint electrician
+  position: jill vohs
+
+- name: jvohsoe@olatheschools.org
+  location: family and consumer sci
+  position: christine vohs
+
+- name: cmvohs@olatheschools.org
+  location: kindergarten teacher
+  position: louisa vonahnen
+
+- name: ljvonahnen@olatheschools.org
+  location: ell teacher
+  position: cynthia vonfeldt
+
+- name: ckvonfeldt@olatheschools.org
+  location: exec director community dev
+  position: matthew vrlenich
+
+- name: mvrlenich@olatheschools.org
+  location: chief technology officer
+  position: elizabeth vu
+
+- name: evu@olatheschools.org
+  location: para 3 center-based resource
+  position: denis vukorep
+
+- name: dvukorep@olatheschools.org
+  location: math
+  position: mary vyhanek
+
+- name: mjvyhanek@olatheschools.org
+  location: para 1 resource
+  position: greg waag
+
+- name: hs assistant drama
+  location: 913-780-7000
+  position: district wide
+
+- name: hs assistant basketball girls
+  location: 913-780-7300
+  position: arbor creek elementary
+
+- name: facilitator assist technology
+  location: 913-780-7390
+  position: countryside elementary
+
+- name: community development spec
+  location: 913-780-7590
+  position: pleasant ridge elementary
+
+- name: administrative secretary 3 pr
+  location: 913-780-7570
+  position: northview elementary
+
+- name: data operator 2
+  location: 913-780-7220
+  position: california trail middle school
+
+- name: link
+  location: 913-780-7260
+  position: mission trail middle school
+
+- name: senior buyer
+  location: 913-780-7230
+  position: indian trail middle school
+
+- name: asst dir custodial services
+  location: 913-780-7000
+  position: education center
+
+- name: staff talent acquisition mgr
+  location: 913-780-7290
+  position: santa fe trail middle school
+
+- name: molly zabel
+  location: briarwood elementary
+  position: kindergarten teacher
+
+- name: tracy zager
+  location: ridgeview elementary
+  position: grade 1 teacher
+
+- name: tassadit zair
+  location: woodland elementary
+  position: food services school staff
+
+- name: maria zamora
+  location: olathe northwest high school
+  position: custodial 1 lead
+
+- name: andrea zamora
+  location: olathe northwest high school
+  position: para 3 center-based resource
+
+- name: walter zander
+  location: operations service center
+  position: custodial 2
+
+- name: dana zann
+  location: prairie trail middle school
+  position: para 3 center-based resource
+
+- name: kelly zarifa
+  location: forest view elementary
+  position: speech lang path
+
+- name: sara zarnstorff
+  location: fairview elementary
+  position: instructional aide
+
+- name: arielle zarr
+  location: rolling ridge elementary
+  position: title i math
+
+- name: claudia zavala
+  location: olathe south high school
+  position: custodial 1
+
+- name: karen zawicki
+  location: pleasant ridge elementary
+  position: kindergarten teacher
+
+- name: nikole zegunis
+  location: mission trail middle school
+  position: science
+
+- name: michael zegunis
+  location: olathe west high school
+  position: math
+
+- name: dena zeinelabdin
+  location: bentwood elementary
+  position: para 3 autism
+
+- name: morgan zell
+  location: rolling ridge elementary
+  position: speech lang path
+
+- name: jennifer zimmerli
+  location: olathe northwest high school
+  position: e communications
+
+- name: leanna zimmerli
+  location: california trail middle school
+  position: math
+
+- name: andrea zimmerman
+  location: prairie learning center
+  position: therapeutic program
+
+- name: kamiel zimmerman
+  location: instructional resource center
+  position: instructional coach -elem
+
+- name: evan zimmerman
+  location: olathe district activity cntr
+  position: maint grounds
+
+- name: susan zimmerman
+  location: prairie center elementary
+  position: administrative secretary 6 pr
+
+- name: mckenzie zimmerman
+  location: olathe south high school
+  position: para 3 center-based resource
+
+- name: bonita zimmerman
+  location: ridgeview elementary
+  position: secretarial assistant
+
+- name: jeff zimmerman
+  location: olathe west high school
+  position: physical education
+
+- name: jennifer zimmerman
+  location: oregon trail middle school
+  position: physical education
+
+- name: candice zimmers
+  location: northview elementary
+  position: physical therapist
+
+- name: eric zink
+  location: olathe north high school
+  position: library media specialist
+
+- name: pam zoller
+  location: indian creek elementary
+  position: library media specialist
+
+- name: allyssa zoller
+  location: prairie center elementary
+  position: kindergarten teacher
+
+- name: deirdre zongker
+  location: olathe north high school
+  position: english
+
+- name: christian zuck
+  location: olathe northwest high school
+  position: principal
+
+- name: kelli zuel
+  location: tomahawk elementary
+  position: administrative secretary 6 pr
+
+- name: mindy zugelder
+  location: california trail middle school
+  position: business/computers
+
