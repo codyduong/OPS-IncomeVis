@@ -30,17 +30,6 @@ class htmlParserSearch(HTMLParser):
         self.allPageLinks = links
 
     def handle_data(self, data):
-        #print(data)
-        """
-        if (str(data)).lower() == self.employee:
-            posLine = self.getpos()[0]
-            lTC = self.allPageLinks
-            if posLine in lTC:
-                self.linksConfirmed[self.employee] = '%s%s' % (BASE_URL, lTC[posLine])
-                print('%s linked to %s' % (self.employee, lTC[posLine]))
-                self.allPageLinks.pop(posLine)
-            #print(data, self.getpos()[0])
-        """
         if str(data)[0] == '$':
             posLine = self.getpos()[0]
             lTC = self.allPageLinks
