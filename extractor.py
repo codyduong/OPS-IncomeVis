@@ -1,5 +1,12 @@
+"""
+This file parses the mhtml and converts it to a json of employees
+"""
+
 from html.parser import HTMLParser
 import json
+
+
+JSON_STORE = None
 
 
 def parseContent():
@@ -25,7 +32,7 @@ def parseContent():
     return content
 
 
-class htmlParserBase(HTMLParser):
+class htmlParser(HTMLParser):
     posConfirm = {}  # lists pos where <td class=3D"xform"> exists
     employees = {}
     """
@@ -66,8 +73,7 @@ class htmlParserBase(HTMLParser):
                 self.location = data
             elif self.position == None:
                 self.position = data
-                self.employees[self.employee] = (
-                    {'location': self.location, 'position': self.position})
+                self.employees[self.employee] = {'location': self.location, 'position': self.position}
                 self.employee, self.location, self.position = None, None, None
 
 
@@ -76,7 +82,8 @@ def writeToJson(e, filename):
     Converts {employee: [Location, Position],...} to JSON
     """
     with open(filename, "w") as f:
-        f.write(json.dumps({'employees': e}, indent=4))
+        content = json.dumps({'employees': e}, indent=4)
+        f.write(content)
         #YML below
         # s = 'employees:\n\n'
         # for person in e:
@@ -85,9 +92,13 @@ def writeToJson(e, filename):
 
 
 if __name__ == "__main__":
-    content = parseContent()
-    parser = htmlParserBase()
-    parser.feed(content)
-    print(parser.employees)
+    parser = htmlParser()
+    parser.feed(parseContent())
+    #print(parser.employees)
     writeToJson(parser.employees, "employees.json")
-    
+    print("Exported to JSON")
+else:
+    parser = htmlParser()
+    parser.feed(parseContent())
+    JSON_STORE = json.dumps({'employees': parser.employees}, indent=4)
+    print("Passing JSON")
