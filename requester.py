@@ -1,5 +1,6 @@
 import requests
 
+
 def retry(l):
     if str(input("Try again? [Y/N]")).lower() == "y":
         return runRequest(l)
@@ -16,7 +17,7 @@ def runRequest(l):
             return r.text
         else:
             print('There was an error with accessing %s with error code %s retrieved' % (l, r.status_code))
-            return retry(l)
     except:
         print('There was a timeout')
+    finally:
         return retry(l)
