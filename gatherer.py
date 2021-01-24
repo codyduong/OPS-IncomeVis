@@ -2,14 +2,14 @@ import json
 import requester
 import urllib.parse
 import time
+import dataHandler
+import csv
 from html.parser import HTMLParser
 
 
 BASE_URL = 'https://govsalaries.com'
 STATE = 'KS'
 EMPLOYER = 'olathe'
-# Fields to check
-FIELDS = ('location', 'position', 'employer')
 #https://govsalaries.com/search?employer=%s&year=%s&employee=%s&state=%s
 
 
@@ -110,6 +110,8 @@ def gatherFromJSON(j):
     # Highly inefficient that makes over 2000 requests to govsalaries
     # Currently still in use because the other method requires more coding... and idk if i want to do it.
     for person in decoded['employees']:
+        # if times[1] >= 20: #done with a continue statement so i can comment this out easier and not mess with indents
+        #     continue
         #url = '%s/search?employer=%s&year=%i&employee=%s&state=%s' % (BASE_URL, EMPLOYER, 2018, urllib.parse.quote(person), STATE)
         url = '%s/search?employer=%s&employee=%s&state=%s' % (BASE_URL, EMPLOYER, urllib.parse.quote(person), STATE)
         #print(url)
@@ -119,10 +121,27 @@ def gatherFromJSON(j):
         parser.reset()
         times[0] += time.time()-s
         times[1] += 1
-        print(times[0]/times[1]) #~.5 second for 2000 searches, meaning ~16 minutes for the whole program to run
+        print(times[0]/times[1]) #~.5 second/search for 2000 searches, meaning ~16 minutes for the whole program to run
+
+    employeesWithData = parser.finalList
+
+    #transfers all data from the whole staff directory only to those with data
+    for person in employeesWithData:
+        averageIncome = 0
+        for incomeAmount in employeesWithData[person]: #if there are multiple years of data
+            #print(incomeAmount)
+            averageIncome+=int(incomeAmount[0])
+        averageIncome /= len(employeesWithData[person])
+        decoded['employees'][person]['income'] = averageIncome #don't ask. i should've used classes instead of tables but tech debt is cool and good
+        employeesWithData[person] = decoded['employees'][person]
+
+    #print(employeesWithData)
+    #dataHandler.writeToJson(employeesWithData, "employeeIncomePreFormat.json") #JSON export, deprecated by csv
+    dataHandler.writeWeirdJSONtoCSV(employeesWithData, "incomeVis.csv")
+
 
     """
     PAGE_LIMIT = 41 #hardcoded because it was ez pz
     for i in range(1, PAGE_LIMIT): 
-        url = '%s/salaries/%s/%s?year=%i&page=%i' % (BASE_URL, STATE, EMPLOYER, 2018, i)
+        url = '%s/salaries/%s/%s?year=%i&page=%i' % (BASE_URL, STATE, EMPLOYER, 2018, i)    
     """

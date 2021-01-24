@@ -1,5 +1,6 @@
 import requests
 
+
 def retry(l):
     if str(input("Try again? [Y/N]")).lower() == "y":
         return runRequest(l)

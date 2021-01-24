@@ -1,9 +1,10 @@
 """
 This file parses the mhtml and converts it to a json of employees
 """
-
 from html.parser import HTMLParser
 import json
+import dataHandler
+import categoryCreator
 
 
 JSON_STORE = None
@@ -77,28 +78,16 @@ class htmlParser(HTMLParser):
                 self.employee, self.location, self.position = None, None, None
 
 
-def writeToJson(e, filename):
-    """
-    Converts {employee: [Location, Position],...} to JSON
-    """
-    with open(filename, "w") as f:
-        content = json.dumps({'employees': e}, indent=4)
-        f.write(content)
-        #YML below
-        # s = 'employees:\n\n'
-        # for person in e:
-        #     s += '- name: %s\n  location: %s\n  position: %s\n\n' % (person, e[person][0], e[person][1])
-        # f.write(s)
-
-
 if __name__ == "__main__":
     parser = htmlParser()
     parser.feed(parseContent())
-    #print(parser.employees)
-    writeToJson(parser.employees, "employees.json")
-    print("Exported to JSON")
+    dumped = json.dumps({'employees': parser.employees}, indent=4)
+    undumped = categoryCreator.catergorize(JSON_STORE)
+    dataHandler.writeToJson(JSON_STORE, "employees.json") #this redumps it
+    print("Exported to JSON") #dumped
 else:
     parser = htmlParser()
     parser.feed(parseContent())
     JSON_STORE = json.dumps({'employees': parser.employees}, indent=4)
-    print("Passing JSON")
+    JSON_STORE = json.dumps(categoryCreator.catergorize(JSON_STORE), indent=4)
+    print("Passing JSON") #dumped
