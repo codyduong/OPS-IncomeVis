@@ -14,7 +14,7 @@ FIELDS = ('location', 'position', 'employer')
 
 class htmlParserSearch(HTMLParser):
     allPageLinks = None #formatted {pos: 'link', }
-    returnMoney = None #formatted [($, link),($, link),...]
+    finalList = {} #formatted {'employee': [($, link),($, link),...]}
     employee = None
 
     def __init__(self, person):
@@ -22,6 +22,14 @@ class htmlParserSearch(HTMLParser):
         self.allPageLinks = {}
         self.employee = person
         self.returnMoney = []
+
+    def resetParser(self):
+        self.allPageLinks = {}
+        self.employee = None
+        self.returnMoney = []
+
+    def setEmployee(self, s):
+        self.employee = s
 
     def handle_starttag(self, tag, attrs):
         links = self.allPageLinks
@@ -39,9 +47,18 @@ class htmlParserSearch(HTMLParser):
             if posLine in lTC:
                 moneyInt = int(str(data).strip('$').replace(',',''))
                 url = (BASE_URL + lTC[posLine])
-                self.returnMoney.append((moneyInt, url))
-                print('%s appended (%i, %s)' % (self.employee, moneyInt, lTC[posLine]))
-                #print(self.allPageLinks, self.returnMoney)
+                try:
+                    if self.finalList[self.employee]:
+                        print('%s appended (%i, %s)' %
+                              (self.employee, moneyInt, lTC[posLine]))
+                        #print(self.finalList[self.employee])
+                        self.finalList[self.employee].append((moneyInt, url))
+                except:
+                    print('%s first link (%i, %s)' % (self.employee, moneyInt, lTC[posLine]))
+                    self.finalList[self.employee] = [(moneyInt, url)]
+                finally:
+                    self.allPageLinks.pop(posLine)
+                    #print(data, self.getpos()[0])
 
 
 def gatherFromJSON(j):
@@ -49,12 +66,12 @@ def gatherFromJSON(j):
     Takes JSON and runs the check through govsalaries.com
     """
     decoded = json.loads(j)
-    employeeMoney = {}
+    parser = htmlParserSearch(None)
     for person in decoded['employees']:
         #url = '%s/search?employer=%s&year=%i&employee=%s&state=%s' % (BASE_URL, 'olathe', 2018, urllib.parse.quote(person), 'KS')
         url = '%s/search?employer=%s&employee=%s&state=%s' % (BASE_URL, 'olathe', urllib.parse.quote(person), 'KS')
         #print(url)
-        parser = htmlParserSearch(str(person))
+        parser.setEmployee(str(person))
         parser.feed(requester.runRequest(url))
-        employeeMoney[str(person)] = parser.returnMoney
+        parser.reset()
         
