@@ -1,4 +1,4 @@
-# OPS-IncomeVis (v1.0.0)
+# OPS-IncomeVis (v1.0.1)
 A side project to practice data viz of employee income from publicly available info. 
 
 Employee list retrieved [here](https://www.olatheschools.org/domain/50) and saved as directory.mhtml.
