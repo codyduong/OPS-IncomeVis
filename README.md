@@ -9,6 +9,8 @@ time to gather all the income data. This file does the whole process from proces
 The employee positions are extradorinarly wide ranged, and I had to create [categoryCreator.py](csvCreator/categoryCreator.py) in order to
 boil it down into the categories seen in the image below. If you're curious how I categorized positions, look in [CAT_KEY.json](csvCreator/CAT_KEY.json)
 
+No outlier handling is done, so there are a couple of weird data points... Oh well ¯\\\_(ツ)_/¯
+
 The CSV of scraped data is [here](income.csv)
 
 Here is the final result created using [vizualizer.py](vizualizer.py):
