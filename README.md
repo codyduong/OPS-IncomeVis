@@ -20,16 +20,18 @@ In order to use this, god forbid you are some random person trying to: You have 
 into categoryCreator/catergorize function,then using that json, pass it into the gatherer.gatherFromJson. An example of a modified csvCreator, for
 your own data that matches the format of employees.json is shown below
 ```python
-    import categoryCreator
-    import gatherer
+import categoryCreator
+import gatherer
 
-    json = None
-    with open('CAT_KEY.json') as f:
-        json = json.loads(f.read())
+json = None
+with open('CAT_KEY.json') as f:
+    json = json.loads(f.read())
 
-    # the fancy formatting isn't necessary, but if you want to save it it's nice
-    json = json.dumps(categoryCreator.catergorize(json), indent=4)
-    gatherer.gatherFromJSON(json)
+# the fancy formatting isn't necessary, but if you want to save it it's nice
+json = json.dumps(categoryCreator.catergorize(json), indent=4)
+
+#change the gatherer.py to change how it exports.
+gatherer.gatherFromJSON(json)
 ```
 
 If you want to change the categories you'll have to modify [categoryCreator.py](csvCreator/categoryCreator.py) here:
