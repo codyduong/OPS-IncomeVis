@@ -27,7 +27,8 @@ your own data that matches the format of employees.json is shown below
     with open('CAT_KEY.json') as f:
         json = json.loads(f.read())
 
-    json = json.dumps(categoryCreator.catergorize(json), indent=4) #the fancy formatting isn't necessary, but if you want to save it it's nice
+    # the fancy formatting isn't necessary, but if you want to save it it's nice
+    json = json.dumps(categoryCreator.catergorize(json), indent=4)
     gatherer.gatherFromJSON(json)
 ```
 
