@@ -43,7 +43,7 @@ CATEGORIES = [
 ```
 Then running the categoryCreator.py from shell, it'll prompt you to organize job titles into the catergories you specify.
 categoryCreator.py will only work if the employees.json is setup properly. You can add more tags and modify to use them as needed.
-```Hjson
+```json
 {
     "employees": { //You can't change this.
         "first last": { 
