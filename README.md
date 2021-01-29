@@ -15,6 +15,7 @@ No outlier handling is done, so there are a couple of weird data points... Oh we
 Here is the final result created using [vizualizer.py](vizualizer.py):
 ![IncomeVizualization](income.png)
 
+A weird note about this is that there was originally a custodial and food service category, but through the method the school employs/contracts, they are not publicly available records.
 # Usage
 In order to use this, god forbid you are some random person trying to: You have to pass an employees.json ([example here](csvCreator/employees.json)) 
 into categoryCreator/catergorize function,then using that json, pass it into the gatherer.gatherFromJson. An example of a modified csvCreator, for
